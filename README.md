@@ -60,7 +60,7 @@ quarto render
 Workflow akan merender dan menerbitkan situs ke branch `gh-pages` setiap ada
 push ke `main`. Pastikan GitHub Actions memiliki izin menulis ke repository.
 Setelah workflow pertama selesai, periksa **Settings → Pages** dan pastikan
-branch `gh-pages` digunakan sebagai sumber publikasi.
+branch `gh-pages` digunakan untuk sebagai sumber publikasi.
 
 ## Aturan assessment
 
