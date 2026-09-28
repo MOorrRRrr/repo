@@ -12,6 +12,72 @@ categories: [Professional, Discovery]
 
 Mendengar sebelum proposing dan membangun shared problem statement dengan person.
 
+## Lembar Pengerjaan Mahasiswa
+### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
+*   **Nama Samaran:** j
+*   **Peran/Pekerjaan Nyata:** mahasiswa
+*   **Domain Hubungan:** ~~Rekan Kerja~~ / ~~Pelanggan~~ / Rekan Mahasiswa *(Coret yang tidak perlu)*
+*   **Konteks Lingkungan:** *(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)* Kelompok tugas besar salah satu mata kuliah
+
+---
+
+### 📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
+
+#### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
+*   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
+    > ceritakan ada kendala apa saja yang kamu alami selama menjalani tugas besar pada semester 2 kemarin?
+    > selama mengerjakan tugas besar kemarin, ada satu kelompok yang beberapa anggotanya tidak ikut secara aktif mengerjakan tugas bagiannya sehingga workload yang seharusnya dikerjakan oleh 5 orang menjadi harus dikerjakan oleh 3 orang. hal ini menyebabkan 3 anggota aktif ini harus begadang dalam mengerjakan tugas yang diberikan.
+
+#### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
+*   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
+    > kejadian ini berdampak langsung pada waktu dan tenaga yang dihabiskan oleh anggota-anggota yang aktif sehingga harus memberikan effort ekstra.
+
+#### **Pertanyaan 3: Pemetaan Pihak Terdampak**
+*   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
+    > anggota kelompok dan asisten dosen 
+
+#### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
+*   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
+    > diharapkan semua 5 anggota dapat berkontribusi secara aktif dan maksimal sehingga dapat menciptakan hasil tugas yang lebih maksimal lagi.
+
+#### **Pertanyaan 5: Batasan & Kendala Lapangan**
+*   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
+    > keterbatasan dalam kemampuan. 2 anggota lain kemungkinan besar merasa kurang mampu dalam membantu kelompok sehingga memilih untuk diam saja.
+
+---
+
+## ✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
+
+Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasumber Anda. **Aturan utama: Pernyataan ini TIDAK BOLEH menyebutkan solusi teknis (seperti aplikasi, website, database, dll.)!**
+
+### 📐 Formula Standar:
+> **`[Pribadi/Peran]` mengalami `[keadaan yang dapat diamati]` ketika `[konteks]`, sehingga `[dampak]`. Ia membutuhkan `[hasil/kemampuan]`, dengan mempertimbangkan `[kendala]`.**
+
+#### 💡 Contoh Model Buku (Kasus Kantin Kampus):
+*Mahasiswa pengguna kantin mengalami antrean yang tidak dapat diperkirakan pada jam pergantian kuliah sehingga terlambat masuk kelas. Mereka membutuhkan cara mengetahui waktu tunggu dan mengambil pesanan lebih cepat, dengan mempertimbangkan kemampuan kasir, biaya pemilik, serta akses pengguna tanpa telepon pintar.*
+
+---
+
+### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
+*Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
+> `J` mengalami `kesulitan dalam mengerjakan tugas dengan workload berat` ketika `mengerjakan tugas besar`, sehingga `j harus begadang berhari-hari`. Ia membutuhkan `bantuan anggota lain`, dengan mempertimbangkan `kemampuan yang mereka miliki`.
+
+### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
+*Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
+> `J` mengalami `kesulitan dalam mengerjakan tugas dengan workload berat` ketika `mengerjakan tugas besar`, sehingga `j dan 2 teman lainnya harus begadang berhari-hari`. Ia membutuhkan `bantuan 2 anggota lain yang tidak aktif mengerjakan tugas`, dengan mempertimbangkan `kemampuan yang mereka miliki`.
+
+---
+
+## 🎯 FASE 4: REFLEKSI INTRAPRIBADI
+Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
+1. *Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?*
+2. *Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?*
+3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
+
+> **Jurnal Refleksi:**
+> menurutku tidak terlalu sulit untuk menahan diri dalam memberikan solusi teknologi di awal percakapan karena fokus permasalahannya bukan hanya tentang keterbatasan teknologi. Asumsi ku yang keliru adalah aku menganggap temanku mengerjakan tugasnya sendiri, padahal di awal ia sudah menyampaikan bahwa ia mengerjakannya dengan 2 orang lainnya. aku berjanji untuk tidak akan menyebarkan cerita ini kepada orang lain.
+
+
 ## Evidence wajib
 
 - Initial assumption dan pertanyaan discovery.

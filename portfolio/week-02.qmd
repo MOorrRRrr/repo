@@ -12,6 +12,72 @@ categories: [Fondasi, Intra-Self]
 
 Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
+## **Bagian 1: Identifikasi Kasus (Bahan Mentah)**
+
+Pilihlah satu peristiwa sulit, menantang, atau kurang menyenangkan yang baru-baru ini Anda alami (misalnya: pesan tidak dibalas, kritik dari dosen, tugas kelompok terhambat, atau rencana yang batal) \[11, 13\]. *Catatan Etis: Pilih kasus yang cukup aman untuk dipelajari secara akademis. Jangan memilih situasi kekerasan atau trauma berat yang membutuhkan bantuan profesional \[13\].*
+
+### **1. Peristiwa yang Dapat Diamati (Fakta Objektif)**
+
+*Tuliskan apa yang benar-benar terjadi tanpa penilaian karakter, generalisasi (hindari kata "selalu" atau "pasti"), atau dugaan niat. Bayangkan apa yang terekam oleh kamera video \[13, 145\].* \> **Contoh Kurang Tepat:** *"Rekan kelompok saya malas dan sengaja mengabaikan tugas kelompok."*\
+\> **Contoh Tepat:** *"Dua tugas yang disepakati di WhatsApp grup belum dikirimkan oleh Rekan X hingga batas waktu tanggal 30 Agustus pukul 23.59."* \* 
+**Tuliskan Fakta Anda di sini:** Baru sabtu kemarin aku mengikuti lomba IBCC di Jogja. Di dalam lomba itu aku harus melakukan presentasi dalam bahasa inggris. Selama ini aku memang merasa kurang percaya diri dengan kemampuan bahasa inggrisku. Dalam presentasi aku banyak sekali mengalami kendala dalam menemukan kosakata bahasa inggris karena terlalu gugup. Hal ini membuat aku merasa sangat sedih karena aku merasa kurang maksimal sekali dalam menyiapkan presentasi lomba ini. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **2. Interpretasi Pertama (Asumsi Otomatis)**
+
+*Tuliskan pemikiran atau kesimpulan pertama yang langsung melompat di kepala Anda ketika peristiwa itu terjadi \[13, 145\].* \* 
+**Tuliskan Interpretasi Pertama Anda di sini:** Aku langsung merasa bahwa aku sangat amat tidak pantas ada di panggung itu dan seharusnya aku melakukan persiapan yang lebih matang lagi. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **3. Emosi & Sensasi Tubuh**
+
+*Identifikasi emosi konkret yang Anda rasakan (marah, cemas, malu, kecewa, sedih) dan tandai intensitasnya dari skala 0–10. Catat juga reaksi fisik yang Anda rasakan (napas pendek, rahang menegang, dada sesak) \[13, 147\].* \* **Emosi yang Dirasakan (dan skala 0-10):** Kecewa. 10/10. 
+**Sensasi Tubuh yang Muncul:** Reaksi fisik yang aku rasakan adalah jantung yang berdebar karena aku merasa sudah gagal menyampaikan apa yang seharusnya aku sampaikan 
+
+------------------------------------------------------------------------
+
+## **Bagian 2: Membedah Tiga Narasi**
+
+Kini, mari kita bawa peristiwa di atas ke dalam tiga kacamata cerita batin yang berbeda untuk melihat bagaimana narasi tersebut mengarahkan pilihan hidup Anda \[13, 157\].
+
+```         
++---------------------------------------------------------------------------------+
+|                                 TIGA KACAMATA                                   |
+|                                                                                 |
+|  1. NARASI KORBAN          2. NARASI ANALITIS          3. NARASI PERTUMBUHAN    |
+|  "Semua kendali di luar    "Membedah fakta,            "Mengakui kesulitan,     |
+|  diri saya, saya lumpuh    asumsi, dan hal yang        menemukan pelajaran,     |
+|  tanpa pilihan tindakan."  bisa saya kendalikan."      dan bertindak."          |
++---------------------------------------------------------------------------------+
+```
+
+### **Versi A: Narasi Korban (Victim Narrative)**
+
+*Tempatkan diri Anda sepenuhnya sebagai korban keadaan. Tuliskan narasi di mana semua kendali berada di luar diri Anda, orang lain sepenuhnya bersalah, dan Anda tidak memiliki pilihan selain pasrah, menyalahkan diri sendiri, atau membalas secara pasif \[13, 157\].* \* **Isi Narasi Korban Anda:** 
+Seharusnya orang lain bisa meluangkan waktu lebih banyak lagi untuk bisa latihan bersama tanpa baca teks supaya saat presentasi tidak melebihi waktu yang seharusnya. aku sudah menyiapkan skrip ku juga, tapi aku harus memotong durasinya dan narasi yang aku sampaikan karena kalian semua tidak berlatih tanpa teks sehingga waktunya yang kalian gunakan melebihi yang seharusnya.
+ **Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** *(Contoh: mendiamkan balik, keluar grup proyek tanpa kabar, atau mengeluh di media sosial)* 
+ Mendiamkan rekan tim ku karena rasa kecewa, aku juga takut marah marah tidak jelas di depan mereka tanpa menyusun poin penyampaian dengan lebih jelas.
+
+### **Versi B: Narasi Analitis (Analytical Narrative)**
+
+*Gunakan kacamata yang objektif dan rasional. Pisahkan dengan tegas antara fakta yang diketahui, hal-hal yang masih berupa dugaan (belum diketahui), serta faktor-faktor yang berada di bawah kendali Anda langsung \[13, 157, 158\].* \* **Apa fakta yang benar-benar telah terbukti?** kami kurang berlatih bersama tanpa melihat teks skrip yang telah kami buat masing-masing. **Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?** kesibukan kami masing-masing entah dalam jurusan maupun dalam kehidupan nyata yang menyebabkan kami kurang berlatih, terlebih komunikasi antarindividu yang masih kurang berjalan dengan baik sehingga kami masih banyak menerka nerka alasan kenapa salah satu anggota tidak datang latihan atau tidak datang saat berkumpul. **Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?** faktor komunikasi, seharusnya aku bisa bertanya dengan lebih aktif lagi supaya lebih paham kondisi temanku. 
+
+### **Versi C: Narasi Pertumbuhan (Growth Narrative)**
+
+*Gunakan kacamata belas kasih (*compassion*) dan pola pikir bertumbuh (*growth mindset*). Akui bahwa situasinya sulit dan emosi Anda valid, namun arahkan batin Anda untuk menemukan hikmah/pelajaran serta memilih tindakan yang selaras dengan nilai jangka panjang Anda \[13, 151, 157\].* \* **Isi Narasi Pertumbuhan Anda:** Situasi di lapangan memang sulit karena kami sama sama sibuk dengan kegiatan kami masing-masing. Tapi, menurutku juga perasaanku bahwa kami kurang berlatih bersama memang valid karena itu sesuai dengan apa yang terjadi di lapangan.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \* **Pelajaran apa yang dapat saya ambil dari situasi ini?** dari situasi ini aku belajar untuk lebih banyak berkomunikasi lagi dan juga untuk dapat membagi prioritas dengan lebih baik lagi. hal ini supaya kedepannya saat kami memang seharusnya latihan, kami sama sama bisa menentukan kapan jadwal yang pas untuk berlatih bersama sehingga kondisi saat melakukan hal yang sudah dipersiapkan dapat lebih terkontrol. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+------------------------------------------------------------------------
+
+## **Bagian 3: Merancang Respons (Action & Support)**
+
+### **1. Pilihan Respons Terbaik**
+
+*Berdasarkan Narasi Pertumbuhan Anda, tuliskan tindakan kecil, konkret, dan asertif yang akan Anda lakukan sekarang untuk merespons situasi tersebut \[13, 157, 158\].* \* **Langkah nyata yang saya pilih:** aku akan mengomunikasikan jadwal dengan teman teman dan juga menanyakan jadwal teman temanku dengan lebih baik lagi. selain itu aku juga akan secara terbuka bertanya hal-hal yang masih mengganjal di dalam diriku sebelum akhirnya nanti menyesal tidak ditanyakan. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **2. Dukungan yang Diperlukan**
+
+*Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* **Nama rekan/pendamping:** Ibu \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+------------------------------------------------------------------------
+
 ## Evidence wajib
 
 - Satu episode komunikasi dengan diri sendiri.

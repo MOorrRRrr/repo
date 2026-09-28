@@ -12,6 +12,88 @@ categories: [Fondasi, Language]
 
 Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
+## **B. Identitas Mahasiswa**
+*   **Nama Lengkap:** Cecilia Maura Ciptami Paskadina
+*   **NIM:** 18225049
+*   **Program Studi:** Sistem dan Teknologi Informasi
+*   **Tanggal Pengisian:** 15 September 2026
+
+---
+
+## **C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)**
+Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan "sumsum" atau kebenaran inti dari pesan Anda.
+
+1. **Konsep Teknis yang Dipilih:**
+   *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
+   *Jawab:* Stack
+   
+2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
+   *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
+   *Jawab:* struktur data linier yang menggunakan prinsip LIFO (Last In, First Out)
+   
+3. **Daftar Jargon Teknis & Artian Sederhananya:**
+   *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
+   *   **Jargon 1:** `LIFO` $\rightarrow$ Arti Sederhana: Data yang terkahir dimasukkan adalah data yang akan keluar pertama kali saat 'stack' ini dipanggil
+   *   **Jargon 2:** `Struktur data linier` $\rightarrow$ Arti Sederhana: pengaturan data secara berurutan
+   *   **Jargon 3:** `Pop` $\rightarrow$ Arti Sederhana: Menghapus data teratas stack
+
+4. **Kebenaran Inti (*Marrow of the Message*):**
+   *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
+   *Jawab:* stack banyak digunakan dalam bahasa pemrograman yang membantu dalam penyimpanan data.
+   
+---
+
+## **D. Tahap 2: Matriks Terjemahan Lima Bahasa**
+Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai bagi masing-masing dari lima audiens berikut.
+
+### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
+*   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
+*   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
+*   *Draf Terjemahan Anda:* bayangkan tower of hanoi. konsep datanya mirip banget kayak main permainan ini. potongan yang paling atas bakalan jadi potongan yang pertama diambil kalau lagi dibutuhkan.
+   
+   
+### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
+*   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
+*   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
+*   *Draf Terjemahan Anda:* bayangkan tower of hanoi. anggap data tuh 1 kepingan bulat dari tower of hanoi ini. karena yang bisa keluar pertama cuma kepingan yang paling atas, jadi ya mau gamau kita ambil datanya dari yang paling atas ini dong. ini lah alasan sebutan LIFO muncul, last in first out.
+   
+   
+### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
+*   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
+*   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
+*   *Draf Terjemahan Anda:* Intinya, kalo kalo ada sebuah array of data, data yang masuk paling akhir (paling kanan) adalah data yang bakalan pertama kali keluar kalo misal ada data yang mau diambil dari array of data ini.
+   
+   
+### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
+*   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
+*   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
+*   *Draf Terjemahan Anda:* Stack adalah cara menyimpan dan mengelola data dalam program komputer dengan prinsip LIFO (Last In, First Out) — data yang terakhir masuk adalah yang pertama keluar. Analoginya seperti tumpukan piring: piring yang paling atas (terakhir diletakkan) adalah yang pertama diambil. Investasi kecil dalam pemahaman struktur data ini menghasilkan penghematan biaya pengembangan dan pemeliharaan yang signifikan, serta mengurangi risiko teknis pada fitur-fitur kritis.
+   
+   
+### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
+*   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
+*   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
+*   *Draf Terjemahan Anda:* bayangkan tower of hanoi. data akan disimpan dan diambil seperti kepingan yang ada di mainan tersebut. data yang paling terakhir dimasukkan adalah data yang akan pertama kali diambil saat data tersebut dibutuhkan.
+   
+   
+
+---
+
+## **E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)**
+*Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.*
+
+1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
+   *Jawab:* Ragam bahasa ke manager atau pengambil keputusan. Karena konsep programing yang aku pakai memiliki cakupan yang terlalu kecil sehingga kurang bisa menjelaskan dampak pengimplementasiannya secara ril.
+   
+2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
+   *Jawab:* saya menyadari bahwa banyak sekali konsep teknis dalam pemrograman yang dapat dijelaskan menggunakan contoh nyata dalam kehidupan sehari hari sehingga sangat mudah untuk dijelaskan kepada orang awam.
+   
+3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
+   *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
+   *Jawab:* 
+   
+
+
 ## Evidence wajib
 
 - Lima versi untuk friend, technical peer, manager, customer, dan public.

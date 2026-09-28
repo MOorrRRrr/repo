@@ -8,44 +8,64 @@ description: "Evidence person, personality, character, objective, repertoire, la
 categories: [Fondasi, Person]
 ---
 
-## Kompetensi target
 
-Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+**Nama Mahasiswa:** Cecilia Maura **Tanggal Pengerjaan:** 13 September 2026
+
+### Bagian A: Peta 5 Domain Kehidupan \[135\]
+
+Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
+
+| Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **1. Diri Sendiri** | Identifikator emosi | Diri saya sendiri, terutama perasaan saya | Mengelompokkan emosi yang dirasakan, apakah merupakan sebuah kebutuhan atau hanya keinginan sesaat saja. |
+| **2. Keluarga / Sahabat** | Anak ketiga | Keluarga: Bapak, Ibu, Mas, Mba, Adek | Mengomunikasikan kesibukan diri supaya keluarga tidak khawatir dengan keberadaan diri saya saat sedang tidak membalas pesan |
+| **3. Profesional / Akademik** | Mahasiswa tingkat kedua | Dosen, teman seangkatan, kakak tingkat, adik tingkat | Menginformasikan kesibukan diri dengan sekitar untuk meminta bantuan maupun untuk membantu orang lain yang memang sedang membutuhkan diri kita |
+| **4. Komunitas / Kelompok** | Panitia suatu acara | Teman-teman panitia | Mengomunikasikan kesibukan akademik dan kesibukan lain supaya jadwal kerja panitia bisa menyesuaikan jadwal lain yang menjadi prioritas kita |
+| **5. Dunia / Publik** | Masyarakat biasa | Masyarakat lain dari berbagai latar belakang | Menghindari komunikasi yang dapat menyinggung perasaan orang lain, seperti menyinggung SARA |
+
+| Lapisan | Definisi | Contoh pada Diri Saya |
+|:-----------------|:-----------------|:-----------------|
+| **Pribadi** | Martabat, nilai intrinsik, sejarah, dan kebebasan (tidak berubah, utuh) | Saya adalah orang yang sangat menghargai kejujuran dan keadilan. Saya peka terhadap ketidakadilan, baik yang menimpa diri sendiri maupun orang lain. Saya juga tulus ketika membantu orang lain. |
+| **Kepribadian** | Kecenderungan berpikir dan bertindak (misal: introvert, ekstrover, analitis) | Saya cenderung introvert dan menghindari konflik. Di bawah tekanan, saya cenderung diam, menahan pendapat, dan takut salah. Saya lebih nyaman mendengarkan daripada berbicara di depan banyak orang. |
+| **Peran Naratif** | "saya sedang menjadi siapa di sini?" (mahasiswa, pemimpin proyek, anak, pelanggan) | Saya adalah anak ketiga di keluarga, mahasiswa tingkat kedua, panitia acara, dan wakil ketua divisi. Sebagai wakil ketua divisi, saya dituntut untuk berani menyampaikan informasi, memimpin rapat, dan mengambil keputusan — hal yang tidak selalu sejalan dengan kepribadian introvert saya. |
+
+### Bagian B: Analisis Kontras Dua Peran Utama \[136\]
+
+Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya: Peran A = Anggota Tim Proyek, Peran B = Sahabat Pendengar), lalu uraikan perbedaannya:
+
+| Unsur Komunikasi | Peran A: Identifikator emosi | Peran B: Panitia |
+|:-----------------------|:-----------------------|:-----------------------|
+| **1. Tujuan Tugas & Relasi** \[128\] | Dapat membedakan mana emosi yang muncul karena butuh dan mana emosi yang muncul hanya karena ingin | Membuat jadwal tidak saling tumpang tindih supaya tidak terlalu lelah pada satu waktu tertentu padahal masih bisa dibagi |
+| **2. Repertoar Utama** \[129\] | bercerita | bernegosiasi |
+| **3. Pilihan Bahasa & Nada** \[130\] | Kata yang halus namun lugas | Bahasa yang tetap sopan tanpa menyinggung pihak lain, bisa disampaikan via pesan atau secara langsung |
+| **4. Respons yang Harus Dibaca** \[131\] | Perasaan diri: bila sudah dipenuhi namun masih merasa belum puas dan cenderung ingin lagi, artinya hanya merupakan sebuah keinginan | Reaksi non-verbal, apabila dari ekspresi wajah sudah terlihat kurang suka, maka artinya kurang setuju dengan apa yang kita negosiasikan |
+| **5. Tindakan yang Diharapkan** \[131\] | Berhasil menentukan emosi dan juga berhenti terlalu banyak memuaskan emosi yang hanya keinginan semata | Negosiasi jadwal yang berhasil untuk diselaraskan dengan jadwal diri dan juga jadwal orang lain |
+| **6. Relasi yang Harus Dirawat** \[131\] | Hubungan baik dengan diri sendiri supaya tidak mudah lelah maupun lemah | Kegiatan panitia dapat berjalan dengan lancar sesuai dengan target yang diinginkan |
+
+### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
+
+Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran B.2 \[351\]:
+
+1.  **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari? (Contoh: ketulusan, kejujuran, penghargaan, atau keadilan) \[351\]
+    - *Jawaban:* Kejujuran dan keadilan
+2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini? \[351\]
+    - *Jawaban:* Ketulusan
+3.  **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman? \[351\]
+    - *Jawaban:* Sulit menyampaikan pemikiran karena takut salah
+4.  **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda \[136\] (gunakan pola: *"Saya cenderung \[kepribadian\], tetapi peran saya sebagai \[nama peran\] menuntut saya untuk \[perilaku komunikasi\]"*).
+    - *Jawaban:* Saya cenderung kurang bisa menyampaikan pendapat maupun pemikiran, tetapi peran saya sebagai wakil ketua divisi menuntut saya untuk dapat menyampaikan informasi dengan lebih jelas
+5.  **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan \[109, 351\].
+    - *Aturan perumusan:* Jangan menulis sasaran abstrak (seperti "Saya ingin menjadi komunikator hebat") \[109\]. Tulislah sasaran mikro yang nyata, misalnya: *"Ketika seorang teman sedang bercerita, saya akan menahan diri untuk tidak langsung memotong atau memberi solusi selama 3 menit pertama. Saya akan merangkum maknanya dan memvalidasi perasaannya terlebih dahulu."* \[109\]
+    - *Sasaran Saya:* Selama 4 minggu ke depan (minggu 1–4), setiap kali saya berada dalam rapat divisi dan merasa takut salah menyampaikan pendapat, saya akan:
+    1. Menarik napas dalam 3 kali secara sadar.
+    2. Tetap menyampaikan minimal 1 pendapat dalam rapat tersebut, sekalipun singkat.
+    3. Mencatat pendapat yang ingin saya sampaikan supaya bila ada waktu yang tepat, saya dapat menyampaikannya pada saatu tersebut.
+
+6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
+    - *Jawaban:* Pelangi. saya akan meminta pelangi untuk menilai "Apakah saya terlihat lebih berani dan jelas saat menyampaikan pendapat dibandingkan sebelum program ini?" dengan skala 1-5 dan juga masukan dari Pelangi.
 
 ## Evidence wajib
 
 - Lima character dari sedikitnya tiga domain kehidupan.
-
-## lima character
-| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
-|---|---|---|---|---|
-| Intra-Self — reflective learner | Diri sendiri setelah menerima feedback | Memisahkan kesalahan dari identitas dan memilih perbaikan | Jurnal fact/story; “Bagian mana yang dapat saya ubah?” | Self-blame; tulis tiga fakta sebelum kesimpulan |
-| Family — kakak | Adik yang sedang memilih kegiatan sekolah | Membantu ia memilih, bukan memilihkan | Pertanyaan terbuka, paraphrase, pilihan | Menggurui; minta izin sebelum memberi saran |
-| Friends — sahabat | Teman dekat yang sedang kewalahan | Memberi dukungan sesuai kebutuhannya | Listening; “Mau didengar atau mencari solusi?” | Terlalu cepat memberi solusi; tunggu lima detik |
-| Work — koordinator tim | Empat rekan tugas kuliah | Membuat tanggung jawab dan tenggat eksplisit | Check-in, option, written confirmation | Terdengar memerintah; jelaskan kebutuhan bersama |
-| Community — anggota panitia | Pengurus dan warga asrama | Membuka partisipasi dan mencapai tindakan layak | Round-robin, summary, voting bila perlu | Hanya mendengar suara dominan; undang suara yang diam |
 - Objective, responsibility, repertoire, dan risiko tiap character.
-## Episode yang dianalisis
-
-**Konteks:** Bagian narasi milik “Raka” terlambat dua hari. Nadia awalnya melihat Raka hanya sebagai “anggota yang tidak disiplin”. Itu adalah story, bukan fakta. Fakta yang tersedia baru satu: dokumen narasi belum masuk pada waktu yang disepakati.
-
-**Objective:** Beralih dari ketidakjelasan menjadi pembagian kerja dan tenggat baru yang disepakati, sambil menjaga hubungan kerja.
-
-> **Nadia:** “Sebelum kita menentukan tenggat baru, boleh ceritakan apa yang menghambat bagian narasi?”  
-> **Raka:** “Saya dapat jadwal kerja tambahan. Drafnya baru 30 persen.”  
-> **Nadia:** “Berarti hambatan utamanya waktu. Apakah saya menangkapnya dengan benar?”  
-> **Raka:** “Iya.”  
-> **Nadia:** “Kita bisa memperpendek narasi atau membagi bagian kedua. Pilihan mana yang paling mungkin?”
-
-Response Raka mengubah repertoire Nadia dari instruksi menjadi problem-solving bersama. Agreement akhirnya: Raka mengirim pembuka pukul 12.00, Nadia menyelesaikan bagian kedua, dan editor mulai pukul 15.00.
-
 - Satu contoh perubahan language ketika character berubah.
-## Perubahan language
-
-Sebagai **sahabat**, Nadia akan berkata, “Kamu ingin didengar dulu atau mencari solusi bersama?” Sebagai **koordinator**, ia berkata, “Tim membutuhkan narasi sebelum editing; pembagian mana yang realistis?” Core care tetap ada, tetapi responsibility dan action berbeda.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
-{{< include ../includes/evidence-template.md >}}
