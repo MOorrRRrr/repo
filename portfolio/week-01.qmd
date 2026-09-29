@@ -1,7 +1,7 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
@@ -15,13 +15,14 @@ categories: [Fondasi, Person]
 
 Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
 
-| Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
-|:-----------------|:-----------------|:-----------------|:-----------------|
-| **1. Diri Sendiri** | Identifikator emosi | Diri saya sendiri, terutama perasaan saya | Mengelompokkan emosi yang dirasakan, apakah merupakan sebuah kebutuhan atau hanya keinginan sesaat saja. |
-| **2. Keluarga / Sahabat** | Anak ketiga | Keluarga: Bapak, Ibu, Mas, Mba, Adek | Mengomunikasikan kesibukan diri supaya keluarga tidak khawatir dengan keberadaan diri saya saat sedang tidak membalas pesan |
-| **3. Profesional / Akademik** | Mahasiswa tingkat kedua | Dosen, teman seangkatan, kakak tingkat, adik tingkat | Menginformasikan kesibukan diri dengan sekitar untuk meminta bantuan maupun untuk membantu orang lain yang memang sedang membutuhkan diri kita |
-| **4. Komunitas / Kelompok** | Panitia suatu acara | Teman-teman panitia | Mengomunikasikan kesibukan akademik dan kesibukan lain supaya jadwal kerja panitia bisa menyesuaikan jadwal lain yang menjadi prioritas kita |
-| **5. Dunia / Publik** | Masyarakat biasa | Masyarakat lain dari berbagai latar belakang | Menghindari komunikasi yang dapat menyinggung perasaan orang lain, seperti menyinggung SARA |
+| Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi | Risiko Utama |
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+| **1. Diri Sendiri** | Identifikator emosi | Diri saya sendiri, terutama perasaan saya | Mengelompokkan emosi yang dirasakan, apakah merupakan sebuah kebutuhan atau hanya keinginan sesaat saja. | Terlalu lama menganalisis emosi hingga larut dan tidak bertindak. Dampaknya: kelelahan mental dan keputusan yang tidak tepat. |
+| **2. Keluarga / Sahabat** | Anak ketiga | Keluarga: Bapak, Ibu, Mas, Mba, Adek | Mengomunikasikan kesibukan diri supaya keluarga tidak khawatir dengan keberadaan diri saya saat sedang tidak membalas pesan | Terlalu menutup diri dan membuat keluarga khawatir. Dampaknya: jarak emosional dan rasa bersalah. |
+| **3. Profesional / Akademik** | Mahasiswa tingkat kedua | Dosen, teman seangkatan, kakak tingkat, adik tingkat | Menginformasikan kesibukan diri dengan sekitar untuk meminta bantuan maupun untuk membantu orang lain yang memang sedang membutuhkan diri kita | Terlalu sibuk sendiri hingga tidak mau membantu. Dampaknya: stres akademik dan hubungan sosial yang tidak seimbang. |
+| **4. Komunitas / Kelompok** | Panitia suatu acara | Teman-teman panitia | Mengomunikasikan kesibukan akademik dan kesibukan lain supaya jadwal kerja panitia bisa menyesuaikan jadwal lain yang menjadi prioritas kita | Terlalu mengalah hingga jadwal sendiri kacau. Dampaknya: konflik internal panitia dan kelelahan. |
+| **5. Dunia / Publik** | Masyarakat biasa | Masyarakat lain dari berbagai latar belakang | Menghindari komunikasi yang dapat menyinggung perasaan orang lain, seperti menyinggung SARA | Terlalu hati-hati hingga tidak berani bersuara sama sekali. Dampaknya: kehilangan suara dalam isu penting atau konflik sosial. |
+
 
 | Lapisan | Definisi | Contoh pada Diri Saya |
 |:-----------------|:-----------------|:-----------------|
@@ -41,6 +42,7 @@ Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya:
 | **4. Respons yang Harus Dibaca** \[131\] | Perasaan diri: bila sudah dipenuhi namun masih merasa belum puas dan cenderung ingin lagi, artinya hanya merupakan sebuah keinginan | Reaksi non-verbal, apabila dari ekspresi wajah sudah terlihat kurang suka, maka artinya kurang setuju dengan apa yang kita negosiasikan |
 | **5. Tindakan yang Diharapkan** \[131\] | Berhasil menentukan emosi dan juga berhenti terlalu banyak memuaskan emosi yang hanya keinginan semata | Negosiasi jadwal yang berhasil untuk diselaraskan dengan jadwal diri dan juga jadwal orang lain |
 | **6. Relasi yang Harus Dirawat** \[131\] | Hubungan baik dengan diri sendiri supaya tidak mudah lelah maupun lemah | Kegiatan panitia dapat berjalan dengan lancar sesuai dengan target yang diinginkan |
+| **7. Risiko Utama** | Terlalu larut dalam analisis emosi hingga tidak bertindak | Terlalu mengalah hingga jadwal sendiri kacau |
 
 ### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
 
@@ -60,9 +62,33 @@ Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran
     1. Menarik napas dalam 3 kali secara sadar.
     2. Tetap menyampaikan minimal 1 pendapat dalam rapat tersebut, sekalipun singkat.
     3. Mencatat pendapat yang ingin saya sampaikan supaya bila ada waktu yang tepat, saya dapat menyampaikannya pada saatu tersebut.
+    - *Ukuran Keberhasilan:*
+      - Minggu 1–2: Minimal 2 kali menyampaikan pendapat dalam rapat divisi.
+      - Minggu 3–4: Minimal 3 kali menyampaikan pendapat dalam rapat divisi.
+      - Evaluasi akhir: Total minimal 10 kali menyampaikan pendapat dalam 4 minggu.
 
 6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
-    - *Jawaban:* Pelangi. saya akan meminta pelangi untuk menilai "Apakah saya terlihat lebih berani dan jelas saat menyampaikan pendapat dibandingkan sebelum program ini?" dengan skala 1-5 dan juga masukan dari Pelangi.
+    - *Jawaban:* Saya akan meminta Pelangi untuk menilai "Apakah saya terlihat lebih berani dan jelas saat menyampaikan pendapat dibandingkan sebelum program ini?" dengan skala 1-5 dan juga masukan dari Pelangi. Umpan balik akan diminta setiap akhir minggu selama 4 minggu, dicatat di jurnal, dan saran konkret dari Pelangi akan menjadi target mingguan berikutnya.
+
+### Bagian D: Contoh Perubahan Bahasa Ketika Karakter Berubah
+
+Satu hal yang saya sadari: bahasa saya berubah secara signifikan ketika saya berpindah peran. Berikut contoh konkretnya:
+
+| Situasi | Peran yang Aktif | Contoh Ucapan | Ciri Bahasa |
+|:---|:---|:---|:---|
+| **Saya sedang sendirian, merenung** | Identifikator emosi (Diri Sendiri) | *"Aku sedang merasa tidak nyaman. Apa ini karena aku benar-benar butuh, atau hanya ingin diperhatikan? Kalau hanya ingin, mungkin aku bisa menahannya dulu."* | Reflektif, personal, kata ganti "aku", fokus pada perasaan internal, tidak ada tekanan sosial. |
+| **Saya sedang rapat divisi** | Wakil Ketua Divisi (Profesional/Komunitas) | *"Maaf, saya ingin menyampaikan pendapat. Menurut saya, jadwal ini bisa kita geser ke minggu depan agar tidak bertabrakan dengan ujian. Bagaimana pendapat teman-teman?"* | Formal, sopan, menggunakan "saya", ada struktur (permisi–pendapat–alasan–solusi–ajakan diskusi), berorientasi pada keputusan bersama. |
+| **Saya sedang berbicara dengan Ibu** | Anak ketiga (Keluarga) | *"Bu, minggu ini aku sibuk banget. Kalau nggak bales chat, jangan khawatir ya, Bu. Nanti aku kabari kalau sudah selesai."* | Hangat, informal, kata ganti "aku", ada unsur menenangkan, lebih ekspresif secara emosional. |
+| **Saya sedang berkomentar di media sosial** | Masyarakat biasa (Dunia/Publik) | *"Menurut saya, isu ini perlu dilihat dari berbagai sisi. Saya menghargai pendapat yang berbeda, tetapi mari kita hindari menyinggung SARA."* | Hati-hati, netral, menghindari konflik, menggunakan "saya" tetapi dengan jarak sosial yang lebih jauh. |
+
+## 4. Rubrik Penilaian & Evaluasi Mandiri
+
+Gunakan rubrik berikut (diadaptasi dari *Rubrik Kinerja Kriteria 1: Pengenalan Pribadi dan Karakter* \[360\] serta *Rubrik Laboratorium* \[138\]) untuk memeriksa apakah Peta Karakter Anda telah memenuhi standar kualitas akademik:
+
+- **Tingkat Unggul (Skor 4):** Berhasil memetakan kelima domain kehidupan secara realistis \[116\]. Mampu membedakan dengan sangat jernih antara Pribadi, Kepribadian, dan Peran Naratif \[116\]. Sasaran pertumbuhan dirumuskan secara sangat spesifik, terukur, berfokus pada perubahan perilaku komunikatif yang nyata, dan dilengkapi rencana umpan balik dari orang lain \[109, 351\].
+- **Tingkat Cakap (Skor 3):** Memetakan domain kehidupan dengan baik \[116\]. Mampu mengidentifikasi perbedaan peran komunikasi secara relevan dan menghindari stereotip \[360\]. Sasaran pertumbuhan sudah berorientasi pada perilaku komunikatif meskipun ukurannya masih bisa dipertegas lagi \[359\].
+- **Tingkat Berkembang (Skor 2):** Pemetaan domain kehidupan atau perbedaan peran masih terasa sangat umum, kaku, atau menggunakan asumsi/label sepihak \[360\]. Sasaran pertumbuhan dirumuskan secara abstrak atau berfokus pada hasil akhir saja, bukan perilaku komunikasinya \[359\].
+- **Tingkat Awal (Skor 1):** Belum memperlihatkan pemahaman tentang perbedaan peran naratif \[360\]. Kepribadian diperlakukan sebagai stempel batin yang kaku ("saya memang begini") tanpa adanya sasaran pertumbuhan perilaku yang jelas \[125, 360\].
 
 ## Evidence wajib
 

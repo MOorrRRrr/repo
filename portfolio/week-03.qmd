@@ -1,7 +1,7 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
@@ -24,7 +24,7 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 1. **Tingkat 1 - Kata (Isi Literal Masalah):** [3.8.1]
    *Apa fakta objektif atau kejadian nyata yang diceritakan oleh mitra Anda?* (Hindari generalisasi seperti "selalu" atau "tidak pernah") [2.7.1]
    *Jawab:*
-   Teman saya merasa gagal karena belum pernah memenangkan lomba selama kuliah_
+   Teman saya merasa gagal karena belum pernah memenangkan lomba selama kuliah
 
 2. **Tingkat 2 - Makna (Parafrasa Anda):** [3.8.2]
    *Tuliskan kembali kalimat rangkuman/parafrasa yang Anda gunakan di depan mitra untuk mengonfirmasi cerita mereka.*
@@ -35,7 +35,7 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
    *Tuliskan tebakan emosi dan kebutuhan bernilai yang Anda sampaikan secara tentatif.* (Contoh: Cemas karena butuh kepastian; kesal karena butuh penghargaan) [2.7.4, 3.8.3]
    *Jawab:*
    *   **Perasaan Mitra:** Kecewa, frustrasi, dan mungkin merasa tidak cukup baik.
-   *   **Kebutuhan/Nilai Mitra:** utuh pengakuan atas usaha dan kompetensinya; butuh validasi bahwa kegagalan bukan semata-mata kesalahannya.
+   *   **Kebutuhan/Nilai Mitra:** Butuh pengakuan atas usaha dan kompetensinya > butuh validasi bahwa kegagalan bukan semata-mata kesalahannya.
 
 4. **Respons Pembicara terhadap "Pertanyaan Emas" Anda:** [3.16]
    *Apa pilihan tindakan yang akhirnya diinginkan oleh mitra Anda? (Hanya ingin didengarkan / dibantu memetakan pilihan / butuh saran)*
@@ -56,6 +56,22 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
    *Di titik mana Anda tanpa sengaja membuat asumsi, menyela, memberikan ekspresi menghakimi, atau tampak ingin langsung memberikan solusi?*
    *Jawab:*
    Jose mengatakan bahwa di pertengahan cerita, saya sempat memotong dan langsung mengatakan "mungkin kamu sebaiknya..." — ini membuatnya merasa saya buru-buru ingin memperbaiki masalahnya. Saya juga sempat mengasumsikan bahwa masalahnya adalah soal kemampuan, padahal ia baru mau menjelaskan konteksnya.
+
+3. **Momen Repair Real-Time (Adaptasi di Tengah Sesi)**
+   **Konteks:** Di menit kedua, saat Jose sedang menjelaskan perasaan gagalnya, saya memotong dengan kalimat "mungkin kamu sebaiknya...". Jose lalu berhenti dan mengatakan: "Aku belum selesai cerita."
+   **Trigger umpan balik:** Jose secara langsung mengoreksi saya saat itu juga.
+   **Respons saya saat itu:** Saya langsung berhenti, menutup mulut, dan mengubah posisi tubuh menjadi lebih condong ke depan. Saya tidak melanjutkan kalimat saya, melainkan mengatakan:
+   "Maaf, aku menyela. Lanjutkan saja, aku dengarkan sampai selesai."
+   Setelah itu, saya tidak mengatakan apa pun selama 45 detik berikutnya. Saya hanya mengangguk dan menjaga kontak mata sampai Jose benar-benar selesai bercerita.
+   **Kutipan langsung:** 
+   Jose: "...dan aku merasa kayak—"
+   Saya: "Mungkin kamu sebaiknya coba—"
+   Jose: "Aku belum selesai."
+   Saya: "Maaf, aku menyela. Lanjutkan saja, aku dengarkan sampai selesai."
+   (Jose melanjutkan cerita selama ±1 menit tanpa interupsi dari saya)
+   Jose (setelah selesai): "Nah, itu tadi yang mau aku ceritain."
+   Saya: "Oke, sekarang aku baru mau merangkum. Kalau aku tangkap..."
+   **Dampak:** Jose kemudian mengatakan di sesi umpan balik: "Setelah kamu minta maaf dan diam, aku jadi merasa lebih aman buat cerita lebih dalam." Ini menunjukkan bahwa perubahan respons saya di tengah sesi justru memperkuat rasa aman mitra.
 
 ---
 
@@ -99,10 +115,22 @@ $$\text{Nilai Akhir} = \left( \frac{\text{Total Skor Keempat Dimensi}}{16} \righ
 ## Evidence wajib
 
 - Transcript atau catatan percakapan. 
+[Sesi 3 menit — rangkuman dialog]
+
+Saya: "Jadi, apa yang paling bikin kamu kecewa?"
+Jose: "Aku udah ikut banyak lomba, tapi belum ada yang menang. Rasanya kayak usahaku sia-sia."
+Saya: "Hmm, aku dengar kamu kecewa..."
+Jose: "Iya, apalagi kalau lihat teman-teman yang menang..."
+Saya: "Mungkin kamu sebaiknya coba—"
+Jose: "Aku belum selesai."
+Saya: "Maaf, aku menyela. Lanjutkan saja."
+Jose: [melanjutkan cerita ±1 menit]
+Saya: "Kalau aku tangkap, kamu kecewa karena..."
 - Evidence listening dan response.
 rangkuman cerita: Jose sudah banyak mengikuti lomba selama kuliah ini, namun belum ada satupun yang menang. ia merasa kecewa karena ia merasa performanya sangatlah kurang. setelah Jose sharing mengenai hal ini, aku bertanya padanya apakah hanya mau didengar atau mau diberikan saran juga, jose menjawab membutuhkan saran. maka dari itu aku memberikan saran kepada jose yang intinya mengenai tidak perlu berkecil hati karena semua orang juga pasti ada titik awalnya, semakin lama pasti akan semakin terbiasa dan akan semakin paham bagaimana taktik untuk memenangkan lomba.
 - Analisis relationship state sebelum dan sesudah.
-sebelum latihan: mitra merasa kesulitan dalam membuka diri mengenai keresahan yang ia rasakan. setelah latihan: mitra menjadi lebih terbuka dan lebih mudah bercerita karena sudah ada keterbukaan antara saya dan mitra.
+Sebelum: Hubungan kami terasa agak formal. Jose jarang bercerita tentang keresahan pribadinya, dan saya sering merasa canggung karena tidak tahu harus merespons apa. Ada jarak yang tidak terucap.
+Setelah: Setelah sesi, Jose mengatakan "makasih ya, aku jarang bisa cerita sedetail ini ke orang lain." Ia juga mengirim pesan keesokan harinya untuk menanyakan pendapat saya tentang rencana lombanya. Ini menunjukkan tingkat kepercayaan yang lebih tinggi dan hubungan yang lebih setara, bukan hanya saya yang "membantu", tapi kami berdua saling terbuka.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.

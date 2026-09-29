@@ -1,7 +1,7 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
@@ -76,8 +76,29 @@ Seharusnya orang lain bisa meluangkan waktu lebih banyak lagi untuk bisa latihan
 
 *Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* **Nama rekan/pendamping:** Ibu 
 
-### **internal agreement**
-Saya setuju dengan diri saya sendiri bahwa kedepannya, saya akan mengirim pesan koordinasi ke tim. Jika tidak ada respons dalam 2 hari, saya akan menghubungi satu per satu. supaya jadwal tetap dapat ditentukan bersama-sama mengikuti jadwal masing-masing. 
+### **3. internal agreement**
+| Elemen | Isi |
+|---|---|
+| **Tindakan** | Menulis refleksi 1 halaman tentang: apa yang saya pelajari dari lomba IBCC, apa yang akan saya lakukan berbeda untuk presentasi berikutnya |
+| **Batas waktu** | Minggu, 27 September 2026 |
+| **Indikator keberhasilan** | Refleksi selesai ditulis dan disimpan |
+| **Konsekuensi jika tidak dilakukan** | — |
+
+### **4. Bukti Tindakan**
+
+**Tanggal:** 27 September 2026
+**Tindakan:** Menulis refleksi 1 halaman
+
+**Isi refleksi (ringkasan):**
+- Saya gugup karena kurang latihan tanpa teks
+- Saya cenderung menyalahkan keadaan padahal koordinasi bisa saya mulai lebih awal
+- Untuk presentasi berikutnya, saya akan latihan tanpa teks minimal 3x sebelum hari H
+
+**Bukti:** ![Bukti refleksi pasca-lomba](Evidence-W02.png)
+
+**Refleksi setelah menulis:**
+Dengan menulis refleksi ini, saya menyadari bahwa masalah utama bukan pada kemampuan bahasa Inggris saya, tapi pada persiapan dan koordinasi. Saya merasa lebih lega setelah menuangkannya.
+
 
 ------------------------------------------------------------------------
 
@@ -86,6 +107,16 @@ Saya setuju dengan diri saya sendiri bahwa kedepannya, saya akan mengirim pesan 
 - Satu episode komunikasi dengan diri sendiri.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
+
+## Penggunaan AI dalam Proses Ini
+
+| Aspek | Keterangan |
+|---|---|
+| **Bagian yang dibantu AI** | Format internal agreement dan struktur bukti tindakan |
+| **Prompt yang digunakan** | "Contoh internal agreement yang terukur untuk refleksi pasca-lomba" |
+| **Hasil dari AI** | Template tabel internal agreement dengan elemen tindakan, deadline, indikator, konsekuensi |
+| **Modifikasi yang saya lakukan** | Saya sesuaikan isi tabel dengan kasus IBCC saya; tanggal dan refleksi saya tulis sendiri berdasarkan kejadian nyata |
+| **Bagian yang murni saya sendiri** | Fakta objektif, emosi, tiga narasi, dan seluruh refleksi pasca-tindakan |
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.

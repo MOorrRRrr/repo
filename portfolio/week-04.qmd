@@ -1,7 +1,7 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
@@ -51,13 +51,13 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 ### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
 *   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
 *   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:* Coba bayangkan tumpukan piring di rak dapur. Kalau Ibu mau ambil piring, piring yang paling atas itu yang pertama diambil, kan? Nah, komputer juga menyimpan data seperti itu. Data yang terakhir ditaruh di tumpukan, itu yang pertama diambil. Makanya disebut 'terakhir masuk, pertama keluar'. 
-   
+*   *Draf Terjemahan Anda:* Coba bayangkan tumpukan piring di rak dapur. Kalau Ibu mau ambil piring, piring yang paling atas itu yang pertama diambil, kan? Nah, komputer juga menyimpan data seperti itu. Data yang terakhir ditaruh di tumpukan, itu yang pertama diambil. Makanya disebut 'terakhir masuk, pertama keluar'. Ini dipakai di tombol undo di game kamu, kalau kamu menekan undo, yang dibatalkan adalah hal terakhir yang kamu lakukan.
    
 ### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
 *   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
 *   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
 *   *Draf Terjemahan Anda:* Jadi gini, bayangin kamu lagi numpuk buku di meja. Buku yang paling akhir kamu taruh di atas, itu yang paling gampang kamu ambil lagi. Komputer juga gitu cara nyimpen datanya, yang terakhir masuk, itu yang pertama keluar. Makanya disebut LIFO, Last In First Out. Ini kepake banget di fitur undo di aplikasi edit foto kamu, atau tombol back di browser. Setiap kali kamu klik back, itu kayak ngambil buku paling atas dari tumpukan.
+* *Revisi setelah feedback Bunga:* Nah, terus apa yang terjadi kalau tumpukan bukunya udah terlalu tinggi? Di komputer, tumpukan data ini juga punya batas memori. Kalau kita terus-terusan nambah data tanpa pernah ngambil, tumpukannya bisa "runtuh" — atau istilah kerennya stack overflow.
    
    
 ### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
@@ -106,7 +106,9 @@ Saya menunjukkan draf versi Sahabat yang menggunakan analogi tumpukan buku, lalu
 3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
    *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
    *Jawab:* 
-   
+   **prompt yang digunakan:** "Berperanlah sebagai anak berusia 10 tahun yang tidak tahu apa itu stack. Baca draf versi Anak-Anak ini dan katakan bagian mana yang membingungkan atau tidak kamu mengerti."
+   **Feedback dari AI:** AI (sebagai anak 10 tahun) merespons bahwa analogi "tumpukan piring di rak dapur" sudah cukup jelas, tapi kalimat "terakhir masuk, pertama keluar" terasa seperti hafalan karena tidak ada contoh nyata. AI menyarankan menambahkan contoh yang dekat dengan dunia anak, seperti tombol undo di game.
+   **Revisi yang dilakukan:** Saya menambahkan kalimat: "Ini dipakai di tombol undo di game kamu — kalau kamu menekan undo, yang dibatalkan adalah hal terakhir yang kamu lakukan." Kalimat ini menjawab feedback AI dan membuat konsep lebih konkret bagi anak usia 10 tahun.
 
 
 ## Evidence wajib
