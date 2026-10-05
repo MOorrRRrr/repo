@@ -15,13 +15,13 @@ categories: [Fondasi, Person]
 
 Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
 
-| Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi | Risiko Utama |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| **1. Diri Sendiri** | Identifikator emosi | Diri saya sendiri, terutama perasaan saya | Mengelompokkan emosi yang dirasakan, apakah merupakan sebuah kebutuhan atau hanya keinginan sesaat saja. | Terlalu lama menganalisis emosi hingga larut dan tidak bertindak. Dampaknya: kelelahan mental dan keputusan yang tidak tepat. |
-| **2. Keluarga / Sahabat** | Anak ketiga | Keluarga: Bapak, Ibu, Mas, Mba, Adek | Mengomunikasikan kesibukan diri supaya keluarga tidak khawatir dengan keberadaan diri saya saat sedang tidak membalas pesan | Terlalu menutup diri dan membuat keluarga khawatir. Dampaknya: jarak emosional dan rasa bersalah. |
-| **3. Profesional / Akademik** | Mahasiswa tingkat kedua | Dosen, teman seangkatan, kakak tingkat, adik tingkat | Menginformasikan kesibukan diri dengan sekitar untuk meminta bantuan maupun untuk membantu orang lain yang memang sedang membutuhkan diri kita | Terlalu sibuk sendiri hingga tidak mau membantu. Dampaknya: stres akademik dan hubungan sosial yang tidak seimbang. |
-| **4. Komunitas / Kelompok** | Panitia suatu acara | Teman-teman panitia | Mengomunikasikan kesibukan akademik dan kesibukan lain supaya jadwal kerja panitia bisa menyesuaikan jadwal lain yang menjadi prioritas kita | Terlalu mengalah hingga jadwal sendiri kacau. Dampaknya: konflik internal panitia dan kelelahan. |
-| **5. Dunia / Publik** | Masyarakat biasa | Masyarakat lain dari berbagai latar belakang | Menghindari komunikasi yang dapat menyinggung perasaan orang lain, seperti menyinggung SARA | Terlalu hati-hati hingga tidak berani bersuara sama sekali. Dampaknya: kehilangan suara dalam isu penting atau konflik sosial. |
+| Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai |Tanggung Jawab Utama Komunikasi | Risiko Utama | Tujuan Strategis (Objective) |
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+| **1. Diri Sendiri** | Identifikator emosi | Diri saya sendiri, terutama perasaan saya | Mengelompokkan emosi yang dirasakan, apakah merupakan sebuah kebutuhan atau hanya keinginan sesaat saja. | Terlalu lama menganalisis emosi hingga larut dan tidak bertindak. Dampaknya: kelelahan mental dan keputusan yang tidak tepat. | Memvalidasi dan membedakan emosi antara kebutuhan hakiki vs. keinginan sesaat agar keputusan pribadi diambil secara rasional. |
+| **2. Keluarga / Sahabat** | Anak ketiga | Keluarga: Bapak, Ibu, Mas, Mba, Adek | Mengomunikasikan kesibukan diri supaya keluarga tidak khawatir dengan keberadaan diri saya saat sedang tidak membalas pesan | Terlalu menutup diri dan membuat keluarga khawatir. Dampaknya: jarak emosional dan rasa bersalah. | Memastikan ketenangan pikiran keluarga dan mempertahankan ikatan emosional melalui transparansi ketersediaan waktu. |
+| **3. Profesional / Akademik** | Mahasiswa tingkat kedua | Dosen, teman seangkatan, kakak tingkat, adik tingkat | Menginformasikan kesibukan diri dengan sekitar untuk meminta bantuan maupun untuk membantu orang lain yang memang sedang membutuhkan diri kita | Terlalu sibuk sendiri hingga tidak mau membantu. Dampaknya: stres akademik dan hubungan sosial yang tidak seimbang. | Mendapatkan kolaborasi akademik yang efektif serta membangun jejaring saling mendukung (support system). |
+| **4. Komunitas / Kelompok** | Panitia suatu acara | Teman-teman panitia | Mengomunikasikan kesibukan akademik dan kesibukan lain supaya jadwal kerja panitia bisa menyesuaikan jadwal lain yang menjadi prioritas kita | Terlalu mengalah hingga jadwal sendiri kacau. Dampaknya: konflik internal panitia dan kelelahan. | Menyelaraskan jadwal kerja tim demi menjamin ketercapaian target acara tanpa mengorbankan prioritas akademik pribadi. |
+| **5. Dunia / Publik** | Masyarakat biasa | Masyarakat lain dari berbagai latar belakang | Menghindari komunikasi yang dapat menyinggung perasaan orang lain, seperti menyinggung SARA | Terlalu hati-hati hingga tidak berani bersuara sama sekali. Dampaknya: kehilangan suara dalam isu penting atau konflik sosial. | Mempertahankan ruang diskusi publik yang inklusif, beretika, dan menghargai keberagaman. |
 
 
 | Lapisan | Definisi | Contoh pada Diri Saya |
@@ -36,13 +36,13 @@ Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya:
 
 | Unsur Komunikasi | Peran A: Identifikator emosi | Peran B: Panitia |
 |:-----------------------|:-----------------------|:-----------------------|
-| **1. Tujuan Tugas & Relasi** \[128\] | Dapat membedakan mana emosi yang muncul karena butuh dan mana emosi yang muncul hanya karena ingin | Membuat jadwal tidak saling tumpang tindih supaya tidak terlalu lelah pada satu waktu tertentu padahal masih bisa dibagi |
-| **2. Repertoar Utama** \[129\] | bercerita | bernegosiasi |
-| **3. Pilihan Bahasa & Nada** \[130\] | Kata yang halus namun lugas | Bahasa yang tetap sopan tanpa menyinggung pihak lain, bisa disampaikan via pesan atau secara langsung |
-| **4. Respons yang Harus Dibaca** \[131\] | Perasaan diri: bila sudah dipenuhi namun masih merasa belum puas dan cenderung ingin lagi, artinya hanya merupakan sebuah keinginan | Reaksi non-verbal, apabila dari ekspresi wajah sudah terlihat kurang suka, maka artinya kurang setuju dengan apa yang kita negosiasikan |
-| **5. Tindakan yang Diharapkan** \[131\] | Berhasil menentukan emosi dan juga berhenti terlalu banyak memuaskan emosi yang hanya keinginan semata | Negosiasi jadwal yang berhasil untuk diselaraskan dengan jadwal diri dan juga jadwal orang lain |
-| **6. Relasi yang Harus Dirawat** \[131\] | Hubungan baik dengan diri sendiri supaya tidak mudah lelah maupun lemah | Kegiatan panitia dapat berjalan dengan lancar sesuai dengan target yang diinginkan |
-| **7. Risiko Utama** | Terlalu larut dalam analisis emosi hingga tidak bertindak | Terlalu mengalah hingga jadwal sendiri kacau |
+| **1. Tujuan Tugas & Relasi** \[128\] | Memvalidasi dan membedakan emosi kebutuhan vs. keinginan agar tidak terjebak kelelahan mental. | Menyelaraskan jadwal kerja tim dan mendapatkan kesepakatan pembagian tugas yang akomodatif. |
+| **2. Repertoar Utama** \[129\] | Refleksi diri (self-talk) dan pencatatan emosi (journaling). | Negosiasi, pemetaan opsi jadwal, dan penyelarasan aspirasi. |
+| **3. Pilihan Bahasa & Nada** \[130\] | Bahasa introspektif, jujur, halus namun tegas pada diri sendiri. | Bahasa diplomatis, lugas, sopan, komunikatif via pesan maupun tatap muka. |
+| **4. Respons yang Harus Dibaca** \[131\] | Kejelasan batin (apakah rasa tenang muncul atau sekadar kepuasan emosional semu). | Isyarat non-verbal anggota tim (ekspresi wajah, gestures, dan nada bicara saat diskusi). |
+| **5. Tindakan yang Diharapkan** \[131\] | Membatasi penuangan emosi yang sekadar keinginan dan beralih ke tindakan nyata. | Mengesahkan jadwal dan kesepakatan kerja yang disetujui bersama secara realistis. |
+| **6. Relasi yang Harus Dirawat** \[131\] | Hubungan harmonis dan penerimaan utuh terhadap diri sendiri (self-compassion). | Kelancaran dinamika tim dan ketercapaian target kerja organisasi. |
+| **7. Risiko Utama** | Terlalu larut dalam analisis emosi hingga mengalami kelumpuhan tindakan (analysis paralysis). | Terlalu mengalah demi kompromi hingga jadwal dan stamina pribadi terbengkalai. |
 
 ### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
 
