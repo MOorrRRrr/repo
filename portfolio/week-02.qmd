@@ -90,25 +90,23 @@ Simulasi Mental / Replay Situasi Krisis:
 ### **3. internal agreement**
 | Elemen | Isi |
 |---|---|
-| **Tindakan** | Menulis refleksi 1 halaman tentang: pelajaran dari lomba IBCC, analisis karakter internal (Conflict Avoider vs Assertive Facilitator), serta strategi kepemimpinan tim untuk presentasi berikutnya. |
+| **Tindakan** | Mengirimkan pesan evaluasi konstruktif dan masukan asertif terkait manajemen durasi ke WhatsApp grup tim IBCC untuk pembelajaran proyek/lomba mendatang. |
 | **Batas waktu** | Minggu, 27 September 2026 |
-| **Indikator keberhasilan** | Refleksi selesai ditulis, disimpan, dan menghasilkan minimal 3 poin aksi kepemimpinan yang terukur. |
-| **Konsekuensi jika tidak dilakukan** | Menyisihkan waktu khusus 30 menit tanpa gawai di hari Senin untuk menyelesaikan refleksi. |
+| **Indikator keberhasilan** | Pesan evaluasi terkirim dan mendapat respon/penerimaan positif dari anggota tim lain via WhatsApp. |
+| **Konsekuensi jika tidak dilakukan** | Menyampaikan masukan asertif ini secara langsung lewat voice note atau percakapan pribadi ke masing-masing anggota. |
 
 ### **4. Bukti Tindakan**
 
 **Tanggal:** 27 September 2026
-**Tindakan:** Menulis refleksi 1 halaman
+**Tindakan:** Mengirim evaluasi asertif dan masukan perbaikan proyek ke WhatsApp grup tim IBCC.
 
 **Isi refleksi (ringkasan):**
-- Kegugupan dan kendala durasi bukan semata-mata karena kemampuan bahasa Inggris, melainkan karena ketiadaan kepemimpinan koordinasi dan norma tim yang tegas sejak awal.
-- Saya mengidentifikasi kecenderungan batin saya sebagai Conflict Avoider dan Silent Sacrificed yang memilih mengalah diam-diam daripada membangun komunikasi asertif.
-- Untuk presentasi/lomba berikutnya, saya berkomitmen mengambil peran Assertive Facilitator: menyepakati jadwal ketat (skrip selesai H-7, simulasi tanpa teks H-3 minimal 3x), serta berani melakukan intervensi konstruktif saat latihan tidak efektif.
+Saya memberanikan diri menyuarakan evaluasi yang selama ini saya pendam terkait pembengkakan durasi di H-1 lomba. Saya menyampaikan masukan konstruktif untuk perbaikan kerja tim di masa depan (seperti penetapan tenggat skrip H-7 dan simulasi tanpa teks H-3) tanpa menyalahkan siapapun.
 
 **Bukti:** ![Bukti refleksi pasca-lomba](Evidence-W02.png)
 
 **Refleksi setelah menulis:**
-Dengan menulis refleksi ini, saya menyadari bahwa masalah utama bukan sekadar kesibukan anggota tim, melainkan bagaimana saya memposisikan diri dalam dinamika kekuasaan tim. Saya merasa lebih lega dan berdaya setelah memahami bahwa kendali kepemimpinan ada di tangan saya.
+Ternyata saat saya menyuarakan evaluasi secara jujur dan asertif, rekan tim merespon dengan sangat baik dan mengapresiasi masukan tersebut. Ini membuktikan bahwa ketakutan batin saya (Conflict Avoider) bahwa "berbicara tegas akan merusak hubungan" hanyalah asumsi belaka. Saya merasa lega dan berdaya karena berhasil mengeksekusi peran Assertive Facilitator.
 
 
 ------------------------------------------------------------------------
@@ -123,11 +121,11 @@ Dengan menulis refleksi ini, saya menyadari bahwa masalah utama bukan sekadar ke
 
 | Aspek | Keterangan |
 |---|---|
-| **Bagian yang dibantu AI** | Format internal agreement, struktur bukti tindakan, dan kerangka analisis internal character & power dynamics. |
-| **Prompt yang digunakan** | "Contoh analisis internal character dan power dynamics dalam jurnal refleksi pasca-lomba serta format internal agreement" |
-| **Hasil dari AI** | Template tabel internal agreement dan usulan sudut pandang dinamika kekuasaan dalam kerja tim. |
-| **Modifikasi yang saya lakukan** | Saya menyesuaikan seluruh analisis dengan pengalaman nyata lomba IBCC di Jogja, merefleksikan karakter batin (Conflict Avoider), serta menyusun simulasi mental (replay) pribadi. |
-| **Bagian yang murni saya sendiri** | Fakta objektif kejadian, emosi & sensasi fisik, narasi pribadi, dan seluruh refleksi pasca-tindakan. |
+| **Bagian yang dibantu AI** | Membedah dinamika kekuasaan (power dynamics) dalam tim tanpa penanggung jawab serta menyusun narasi interupsi/evaluasi asertif kepada rekan tim. |
+| **Prompt yang digunakan** | "Bagaimana cara menganalisis power dynamics dalam tim yang pasif tanpa pemimpin, dan bagaimana merumuskan pesan evaluasi asertif untuk rekan tim yang mendominasi durasi latihan?" |
+| **Hasil dari AI** | AI memberikan kerangka analisis dinamika kekuasaan (kepasifan kolektif) serta draf pesan evaluasi konstruktif berbasis kepedulian bersama. |
+| **Modifikasi yang saya lakukan** | Menyesuaikan analisis dinamika kekuasaan dengan kasus nyata lomba IBCC Jogja (karakter Conflict Avoider) dan mengubah draf kalimat AI menjadi pesan WhatsApp bergaya santai yang dikirimkan ke grup tim. |
+| **Bagian yang murni saya sendiri** | Fakta objektif kejadian lomba, skala emosi (10/10), eksekusi tindakan nyata mengirim pesan ke grup, dan bukti screenshot obrolan WA. |
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
