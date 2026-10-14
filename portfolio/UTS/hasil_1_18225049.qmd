@@ -1,0 +1,112 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Cecilia Maura Ciptami P |
+| NIM | 18225049 |
+| Kelas dan tanggal | K1, 10 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin Diri dan Terus Belajar |
+| Nama dan ID target | Diri Sendiri (Pembanding: Elsa / K1) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Simulasi Kasus Konseptual |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Mengembangkan kemampuan komunikasi profesional dan manajemen proyek melalui penyelesaian berbagai kasus kelompok dan bisnis dengan pendekatan berbasis empati, analisis data, dan efisiensi operasional.
+- **Konteks:** Evaluasi kepemimpinan diri dalam menghadapi hambatan belajar dan pengelolaan proyek kolaboratif.
+- **Respons akhir yang diharapkan:** Mampu merumuskan pesan kepemimpinan diri yang adaptif, mengidentifikasi bias/asumsi awal, dan menyusun strategi peningkatan skill komunikasi dan manajemen proyek.
+- **Indikator keberhasilan:** Kesadaran akan pentingnya analisis konteks mendalam sebelum menawarkan solusi, fleksibilitas dalam menghadapi berbagai karakter (ISFJ, ISTJ, ESTP), dan regulasi diri yang konsisten.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | S: Empatik, analitis, terbuka terhadap masukan. W: Cenderung membuat asumsi awal tentang kendala orang lain. O: Pengembangan diri dalam kepemimpinan proyek. T: Beban kerja tinggi dan perbedaan karakter tim. | U001 | Laporan diri / Sementara |
+| Attitude | Terbuka, suportif, dan tidak mudah menghakimi. | U001 | Laporan diri / Sementara |
+| Knowledge | Memahami konsep komunikasi berbasis empati dan manajemen proyek terstruktur. | U001 | Laporan diri / Sementara |
+| Skill | Mampu melakukan pemetaan masalah, merancang solusi adaptif, dan merefleksikan proses belajar. | U001 | Laporan diri / Sementara |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan | - | - |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa yang berkomitmen pada pengembangan kapasitas diri dan efisiensi kelompok. | U001 | Laporan diri / Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menguasai komunikasi profesional dan manajemen proyek | A: Keterbukaan belajar; K: Analisis SWOT/ASK; S: Regulasi diri | Dialog reflektif & evaluasi kritis | Formulasi pesan kepemimpinan diri yang matang |
+| Attention | Menyadari hambatan belajar dan asumsi pribadi | A: Mengakui keterbatasan asumsi awal | Refleksi pengalaman pengerjaan tugas | Pengakuan bias awal dalam menilai kawan |
+| Interest | Memahami pentingnya empati dan struktur kerja | K: Pemahaman profil MBTI & ASK | Studi kasus kuesioner & simulasi | Mampu membedakan kebutuhan tiap karakter |
+| Desire | Ingin memimpin kelompok secara efektif dan harmonis | S: Perancangan skema komunikasi adaptif | Formulir dialog diri & simulasi interaktif | Skema komunikasi adaptif terbentuk |
+| Action | Menerapkan regulasi diri dalam setiap sesi kasus | A/K/S terintegrasi | Komitmen tindak lanjut dan penyusunan QMD | Dokumentasi pembelajaran lengkap 5 sesi |
+
+# C) Skrip Percakapan
+
+### U001 | Tahap: Identifikasi & Dialog Diri
+**Mahasiswa:**  
+1. K1, 10 Oktober 2026, teks.  
+2. Saya Cecilia (NIM 18225049) bertujuan untuk menguasai komunikasi profesional dan manajemen proyek melalui penyelesaian berbagai kasus (kelompok dan bisnis) dengan pendekatan berbasis empati, analisis data, dan efisiensi operasional.  
+3. Hambatan utama saya adalah kadang terlalu cepat membuat asumsi awal mengenai kendala anggota tim atau klien sebelum menggali situasi nyata secara mendalam.
+
+### AI001 | Tahap: Refleksi & Simulasi Tokoh Pembanding
+**AI:**  
+Data identitas dan sasaran pengembangan dirimu telah dicatat. Mari kita uji refleksi dirimu dengan membandingkan responsmu terhadap kawan yang memiliki gaya kerja berbeda (misalnya Elsa yang sangat mengutamakan kepedulian relasional). Bagaimana caramu menyusun pesan kepemimpinan diri ketika menghadapi situasi di mana gaya komunikasimu tidak langsung diterima?
+
+### U002 | Tahap: Respons Dialog Diri
+**Mahasiswa:**  
+Saya harus belajar untuk lebih mendengar terlebih dahulu, bertanya secara terbuka tanpa nada menuduh, serta memvalidasi kekhawatiran lawan bicara sebelum menyodorkan solusi teknis. Saya juga perlu menyesuaikan gaya komunikasi sesuai karakter lawan bicara agar solusi yang ditawarkan terasa aman dan dapat diterima.
+
+### AI002 | Tahap: Evaluasi & Uji Ulang Kepemimpinan Diri
+**AI:**  
+Refleksi yang sangat baik. Sekarang bayangkan pada situasi pembelajaran atau proyek berikutnya kamu menghadapi tekanan waktu yang ketat dan rekan kelompok yang pasif. Langkah konkret apa yang akan kamu jalankan untuk memimpin diri sendiri agar tidak frustrasi dan tetap solutif?
+
+### U003 | Tahap: Uji Ulang Kepemimpinan Diri
+**Mahasiswa:**  
+Saya akan menenangkan diri terlebih dahulu, memisahkan emosi pribadi dari tujuan kelompok, lalu mengajak diskusi terbuka mengenai kendala yang dihadapi rekan tanpa menghakimi. Selanjutnya saya akan membantu merinci tugas menjadi bagian-bagian kecil yang lebih terukur dan menawarkan bantuan teknis secara transparan.
+
+### AI003 | Tahap: Hasil dan Refleksi
+**AI:**  
+Luar biasa. Komitmen dan pemahaman regulasi dirimu sudah sangat jelas. Mari kita lengkapi bagian evaluasi dan refleksi untuk laporan Sesi 1 ini.
+
+### U004 | Tahap: Refleksi Akhir
+**Mahasiswa:**  
+Pelajaran utama yang saya dapatkan adalah bahwa kepemimpinan diri yang efektif bermula dari empati dan kesadaran akan bias pribadi. Dengan memahami kondisi ASK orang lain, saya bisa berkomunikasi secara lebih presisi dan menghasilkan dampak positif dalam kerja sama tim.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan pengembangan kepemimpinan diri dan kemampuan komunikasi profesional berbasis empati tercapai secara maksimal.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | S: Empatik & analitis<br>W: Cenderung mengasumsi awal<br>O: Penguasaan manajemen proyek<br>T: Tekanan waktu & perbedaan karakter | S: Adaptif, listens-first, regulasi diri matang<br>W: Terkendali lewat pertanyaan terbuka<br>O: Kepemimpinan inklusif<br>T: Teratasi via transparansi kerja | U001 → U004 | Laporan refleksi diri |
+| Attitude | Cenderung terburu-buru memberikan solusi berdasarkan asumsi | Sabar, mendengar lebih dulu, dan memvalidasi kekhawatiran lawan bicara | U001 → U004 | Laporan refleksi diri |
+| Knowledge | Memahami teori komunikasi umum | Paham kerangka ASK, SWOT subjektif, dan pengaruh MBTI dalam komunikasi | U002 → U004 | Refleksi konseptual |
+| Skill | Cukup dalam analisis masalah | Mahir merancang strategi komunikasi adaptif kontekstual | U003 → U004 | Demonstrasi dialog diri |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, U004 | Sangat jelas dalam merumuskan tujuan pengembangan diri dan regulasi belajar. |
+| Persepsi dan validasi profil/status | 4 | U001, U002 | Mampu mengidentifikasi bias asumsi pribadi dan merevisi pendekatan kepemimpinan. |
+| Pemilihan dan urutan repertoar | 4 | U002, U003 | Urutan pemikiran sangat terstruktur dari mendengar hingga fasilitasi teknis. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U003 | Menyampaikan komitmen diri dengan bahasa yang matang, solutif, dan empatik. |
+| Evaluasi dan adaptasi | 4 | U003, U004 | Mampu mengadaptasi regulasi emosi saat menghadapi situasi tekanan waktu. |
+| Refleksi dan lesson learned | 4 | U004 | Refleksi sangat mendalam mengenai hubungan empati dan efisiensi kelompok. |
+
+*Catatan penilaian:* Total skor = 24 / 24 × 100 = 100. Skor usulan AI untuk moderasi dosen.

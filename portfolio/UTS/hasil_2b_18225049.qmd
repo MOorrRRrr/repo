@@ -1,0 +1,193 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Cecilia Maura Ciptami P |
+| NIM | 18225049 |
+| Kelas dan tanggal | K1, 10 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 — Persahabatan dan Profesionalitas |
+| Nama dan ID target | Budi (K2-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Simulasi Kasus Konseptual |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Tenggat tugas kelompok 48 jam lagi. Budi belum mengirim bagian tugasnya dan merasa pembagian tugas saat ini tidak terukur/kurang adil. Mahasiswa mengajak percakapan untuk menjaga hubungan persahabatan sekaligus menyepakati tanggung jawab tugas bersama.
+- **Konteks:** Menghadapi rekan kelompok yang menuntut kejelasan tertulis dan pembobotan tugas yang terukur sebelum mengeksekusi porsi pengerjaannya.
+- **Respons akhir yang diharapkan:** Menyepakati rincian tugas dan tenggat tertulis yang terukur serta memberikan panduan teknis tanpa merusak hubungan persahabatan.
+- **Indikator keberhasilan:** Budi menyepakati draf alokasi tugas tertulis, merasa yakin mengeksekusi subtugas dengan bantuan panduan teknis, dan tugas dapat diselesaikan tepat waktu pada H-24.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | S: Terbuka untuk diskusi, dapat menyusun rincian tugas. W: Sempat menduga Budi terkendala hal pribadi. O: Budi kooperatif jika ada kepastian tertulis. T: Tenggat H-48 / H-24. | U001 | Laporan diri / Sementara |
+| Attitude | Terbuka, tidak menghakimi atau menyalahkan lawan bicara. | U001, U003 | Laporan diri / Sementara |
+| Knowledge | Memahami pentingnya transparansi alokasi tugas tertulis dan urutan kerja terukur. | U002, U004 | Laporan diri / Sementara |
+| Skill | Mampu menformulasikan skema pembagian kerja tertulis dan memberikan fasilitasi panduan teknis bertahap. | U002, U004 | Laporan diri / Sementara |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan | - | - |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa pimpinan kelompok yang inklusif, terstruktur, dan solutif. | U001 | Laporan diri / Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menjaga persahabatan & membuat pembagian tugas terukur | A: Kepastian tertulis; K: Pembobotan transparan; S: Panduan langkah teknis | Diskusi terbuka & penyusunan rincian tertulis | Budi berkomitmen menyerap subtugas dan menyelesaikan tepat waktu |
+| Attention | Budi menganggap pembagian lama tidak terukur | A: Mengakui kebutuhan kejelasan & keadilan beban | Mengajak merincikan subtugas dan bobot kerja | Budi merespons positif tawaran draf tertulis |
+| Interest | Menginginkan indikator dan bobot pekerjaan tertulis | K: Penyusunan draf pembagian dan durasi pengerjaan | Pemetaan tugas tertulis secara terbuka | Budi menyiapkan draf alokasi tugas dan waktu |
+| Desire | Membutuhkan kepastian panduan teknis pada H-24 | S: Bantuan teknis langsung dan saluran diskusi cepat | Bimbingan langkah demi langkah & pendampingan | Budi merasa tenang dan sanggup mengeksekusi tugas |
+| Action | Menyelesaikan seluruh tugas tepat waktu sebelum tenggat | A/K/S terintegrasi | Bimbingan pengerjaan & koordinasi intensif H-24 | Tugas kelompok rampung 100% tepat waktu |
+
+# C) Skrip Percakapan
+
+### U001 | Tahap: Identifikasi
+**Mahasiswa:**  
+1. k1, 10 oktober 2026, teks  
+2. aku akan mengajak budi untuk berdiskusi lebih lanjut mengenai bagian mana yang masih kurang jelas atau kurang adil. aku akan bertanya mengenai situasinya dan mencoba membantu mencari solusi yang bisa dilakukan bersama dengan kelompok  
+3. a: bisa saja budi memiliki kendala seperti suatu kejadian mendadak yang tidak bisa dihindari sehingga ia baru bisa menyampaikan pendapatnya sekarang, atau bisa juga seperti kasus elsa tadi, ia membantu temannya dulu baru mengerjakan bagian miliknya sehingga ia merasa bingung bagian mana yang seharusnya ia kerjakan dan mana yang seharusnya tidak ia kerjakan. k: budi merasa bahwa pembagian tugas belum jelas dan juga belum terdistribusi secara merata sehingga ia meminta untuk redistribusi, s: kemampuan untuk menyampaikan apa yang ia alami dan rasakan sehingga orang lain paham apa yang ia rasakan dan apa yang ia inginkan
+
+### AI001 | Tahap: Simulasi Awal (Pengantar & Peran Budi)
+**AI:**  
+Data identitas, rencana awal, serta dugaan awalmu mengenai Budi telah dicatat. Sekarang kita masuk ke Tahap C: Simulasi Awal.
+
+(Memerankan Budi — K2-02, teman dekat satu kelompok)
+
+Budi (K2-02): "Jujur, aku bukannya mau sengaja menunda sampai H-48. Tapi aku merasa pembagian tugas kelompok kita dari awal kurang terukur, dan bobot pekerjaan tiap orang belum dibandingkan secara tertulis dengan jelas. Cara yang sekarang rasanya kurang pasti. Menurutmu, bagaimana cara kita membuat rincian pembagian tugas dan tenggat tertulis yang lebih terukur supaya bobot kerja tiap orang seimbang?"
+
+Bagaimana tanggapanmu untuk merespons kekhawatiran Budi, membandingkan bobot tugas secara terukur, dan menyepakati pembagian serta tenggat tertulis untuk 48 jam ke depan?
+
+### U002 | Tahap: Simulasi Awal (Respon Mahasiswa)
+**Mahasiswa:**  
+menurutku untuk saat ini kita bisa menuliskan bagian bagian tugas yang ada dan rincian seperti ada bagian apa saja yang harus dikerjakan di tiap bagian tugas ini. setelah itu kita bisa membagi tugasnya lagi kalau ada bagian yang memang masih belum dikerjakan. tapi kita juga harus mempertimbangkan tugas tugas yang sudah dikerjakan sebelumnya supaya hasil akhirnya tugas dapat tetap dikerjakan secara seimbang sesuai dengan banyak nya hal yang harus dikerjakan di tiap sub tugas yang telah dibagi. tenggatnya bisa kita diskusikan lagi setelah pembagian tugasnya terukur secara lebih jelas
+
+### AI002 | Tahap: Evaluasi Sementara (Pengantar)
+**AI:**  
+Budi (K2-02): "Nah, ide itu yang aku tunggu! Kalau kita rincikan daftar subtugas dan bobot kerjanya secara tertulis, aku bakal merasa jauh lebih pasti dan tenang. Aku langsung siapkan draf daftar pekerjaan dan alokasi waktunya sekarang ya, nanti kita sepakati tenggat per subtugasnya bersama."
+
+Tahap D: Evaluasi Sementara
+Inisiatifmu untuk membuat pemetaan subtugas dan pembobotan tertulis secara terukur berhasil menjawab kebutuhan Budi, meredakan kekhawatirannya, dan menjaga hubungan profesionalitas serta persahabatan.
+
+Sebelum kita masuk ke tahap pengungkapan profil dan uji ulang, silakan jawab dua pertanyaan berikut:
+1. Refleksi Komunikasi & Relasi: Menurutmu, pendekatan atau pesan apa dari gaya komunikasimu yang paling efektif menenangkan Budi yang sangat mengutamakan kepastian dan kejelasan struktur tertulis ini?
+2. Revisi Dugaan Profil Target: Di awal sesi, kamu menduga Budi mungkin mengalami kejadian mendadak atau bingung karena membantu kawan lain. Setelah mendengar penjelasannya, bagaimana revisi dugaanmu mengenai hambatan sejati Budi dari komponen Attitude, Knowledge, dan Skill?
+
+### U003 | Tahap: Evaluasi Sementara (Refleksi Mahasiswa)
+**Mahasiswa:**  
+1. Menurutku gaya komunikasi yang tidak langsung menyerang individu. Aku bertanya dulu mengenai situasi dan kesulitan yang dialami lalu aku juga membuka diskusi sehingga budi tetap mau terbuka dan mendiskusikan solusi terbaik.  
+2. A: budi menyikapi kendalanya dengan baik dan menyampaikannya tanpa menyerang, s: membantu menyusun workload tugas dan estimasi pengerjaan dengan andal, k: sudah mengetahui bagaimana pembagian tugas yg adil sehingga mempercepat proses pembagian tugas
+
+### AI003 | Tahap: Pengungkapan Profil & Uji Ulang (Pengantar)
+**AI:**  
+Terima kasih atas refleksinya, Cecilia. Analisis revisimu sangat baik dan berhasil menangkap kebutuhan Budi akan struktur serta kejelasan yang terukur.
+
+Pengungkapan Profil Tokoh (Budi — K2-02):
+- Hambatan Utama:
+  - Attitude (A): Merasa pembagian tugas dari awal tidak terukur dan kurang memberikan kepastian.
+  - Knowledge (K): Bobot pekerjaan antar-anggota belum dibandingkan secara tertulis.
+  - Skill (S): Membutuhkan rincian pembagian kerja dan tenggat tertulis yang pasti.
+- Karakter & MBTI Fiktif: ISTJ — mengutamakan detail, kejelasan prosedur, serta komitmen tertulis.
+
+Tahap E: Uji Ulang
+Sekarang mari uji adaptasi komunikasimu pada kendala baru berikut:
+Situasi H-24: Draf pembagian tugas tertulis sudah dibuat. Namun, Budi menghadapi kendala teknis saat mengerjakan salah satu subtugas baru yang prosedurnya belum biasa ia lakukan.
+
+Budi (K2-02) merespons:
+"Draf pembagian tertulisnya sudah oke banget. Tapi untuk subtugas bagianku yang ini, teknis pengerjaannya agak beda dari cara lama yang biasa aku pakai, dan aku butuh urutan langkah yang pasti supaya enggak salah arah. Karena waktu tinggal 24 jam lagi, menurutmu bagaimana panduan langkah bertahap atau bentuk bantuan yang bisa kita sepakati supaya bagian ini selesai tepat waktu?"
+
+Bagaimana caramu merespons Budi untuk memberikannya kepastian langkah sekaligus memastikan tugas kelompok selesai tepat waktu?
+
+### U004 | Tahap: Uji Ulang
+**Mahasiswa:**  
+kita bisa bantu kamu mengerjakan sih. kamu kalo bingung bisa tanya kita supaya bisa kita bantu juga secepatnya sehingga bisa selesai tepat waktu tanpa melepas tanggung jawab yang memang sudah diemban
+
+### AI004 | Tahap: Hasil & Refleksi (Pengantar)
+**AI:**  
+Tawaran bantuan teknis langsung dan terbukanya saluran diskusi secepatnya memberikan rasa aman serta kepastian bagi Budi untuk mengeksecusi tugasnya tepat waktu tanpa melepas tanggung jawab kelompok.
+
+Tahap F: Hasil dan Refleksi
+Untuk melengkapi evaluasi Sesi 2b ini, silakan sampaikan refleksi akhirmu mengenai beberapa poin berikut:
+1. Pencapaian Tujuan & Perubahan ASK/SWOT Target (Budi): Sejauh mana tujuan menjaga hubungan persahabatan dan kesepakatan tugas tercapai? Bagaimana perubahan pada kondisi ASK dan SWOT Budi dari awal hingga akhir percakapan ini?
+2. Stimulus Efektif & Tidak Efektif: Pendekatan komunikasi apa yang terbukti efektif dan kurang efektif saat berhadapan dengan rekan seperti Budi yang mengutamakan kepastian, kejelasan prosedur tertulis, dan detail?
+3. Refleksi Relasional: Pesan atau tindakan apa dari dirimu yang paling membantu Budi merasa dipercaya, dihargai, dan dipedulikan, serta apa bukti perubahan responsnya?
+4. Lesson Learned & Tindak Lanjut: Apa pelajaran utama (lesson learned) dalam menyeimbangkan persahabatan dan profesionalitas kelompok, serta bagaimana langkah tindak lanjutmu untuk pengerjaan tugas dalam 24 jam tersisa ini?
+
+### U005 | Tahap: Hasil & Refleksi
+**Mahasiswa:**  
+1. sudah tercapai dengan maksimal karena pembagian tugas secara adil tercapai dan juga hubungan persahabatan tetap terjaga. Perubahan menurutku terjadi pada pembagian tugas yang saat ini sudah lebih jelas rincian dan waktu durasi pengerjaannya sehingga budi tidak merasa kebingungan lagi  
+2. yang efektif adalah dengan menyampaikan pendapat tanpa menuduh dan dengan tetap terbuka terhadap diskusi supaya dapat tetap berdiskusi tanpa budi merasa terkucilkan  
+3. menurutku bagian aku merespon tanpa menyalahkan ia, hal ini berujung pada budi yang tetap terbuka dalam melakukan percakapan  
+4. aku belajar bahwa tidak semua hal bisa jelas dari awal tanpa harus merasakan untuk mengerjakannya lebih dahulu. maka dari itu selama proses kerja kelompok aku harus tetap terbuka terhadap pendapat dan juga masukan. dalam 24 kedepan aku akan mencoba untuk membantu budi dalam mengajarinya cara untuk mengerjakannya supaya budi tetap mengerjakan bagiannnya dan pembagian tugas dapat tetap seimbang
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan menjaga hubungan persahabatan sekaligus menyepakati tanggung jawab pengerjaan tugas kelompok secara terukur tercapai secara maksimal.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | S: Terorganisir & taat prosedur<br>W: Ragu bila alokasi tidak terukur<br>O: Adanya draf tertulis & bantuan tim<br>T: Kendala teknis H-24 & tenggat ketat | S: Memiliki kejelasan alokasi tertulis & percaya diri<br>W: Terbantu lewat panduan teknis tim<br>O: Saling melengkapi kepakaran<br>T: Risiko salah arah pengerjaan teratasi | U001 → U005 | Simulasi percakapan terstruktur |
+| Attitude | Ragu dan enggan melanjutkan bila pembagian belum pasti | Sangat yakin, terbuka, dan berkomitmen tinggi menyelesaikan bagian tugas | U001 → U005 | Laporan simulasi |
+| Knowledge | Kurang paham perbandingan bobot kerja antar-anggota | Memahami rincian subtugas, durasi pengerjaan, dan alur prosedur baru | U002 → U005 | Laporan simulasi |
+| Skill | Terbiasa dengan prosedur lama | Siap mempelajari alur pengerjaan baru lewat pendampingan teknis | U004 → U005 | Demonstrasi simulasi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 | Status Awal: Menuntut Kejelasan Tertulis (Budi) | "menurutku untuk saat ini kita bisa menuliskan bagian bagian tugas yang ada..." | Budi antusias dan langsung menyiapkan draf alokasi (*AI002*) | A membaik (kepastian), K membaik (peta bobot kerja tertulis) | Menyiapkan draf pembagian dan estimasi waktu |
+| U004 | Status Uji Ulang: Kebingungan Teknis H-24 | "kita bisa bantu kamu mengerjakan sih. kamu kalo bingung bisa tanya kita secepatnya..." | Budi merasa yakin dan tidak melepas tanggung jawab (*AI004*) | S terkonfirmasi lewat saluran bantuan teknis interaktif | Mengajari teknis pengerjaan bertahap |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | Pendekatan diskusi terbuka tanpa menyalahkan keterlambatan | Budi sangat terbuka dan responsif memberikan draf kerja | Rasa Aman: Tinggi<br>Kepercayaan: Tinggi<br>Keterbukaan: Tinggi | Mendorong komitmen penuh Budi dalam kelompok |
+| U004 | Penawaran bantuan teknis langsung tanpa menghakimi | Budi merasa tidak terkucilkan dan siap mengeksekusi | Rasa Aman: Sangat Tinggi<br>Kepercayaan: Tinggi<br>Keterbukaan: Tinggi | Mempertahankan profesionalitas dan keakraban kelompok |
+
+## Uji ulang dan pembelajaran
+
+- **Stimulus sejenis:** Kendala teknis pengerjaan pada H-24 akibat perbedaan alur pengerjaan.
+- **Respons awal vs uji ulang:** Pada awal, mahasiswa menekankan pembagian dan penentuan durasi tertulis; pada uji ulang, mahasiswa menyediakan pendampingan teknis dan konsultasi langsung.
+- **Indikator perbaikan:** Terwujudnya rincian tugas tertulis dan eksekusi pengerjaan Budi tanpa hambatan teknis.
+- **Transfer dan keterbatasan:** Sangat aplikatif untuk kerja kelompok teknis/struktural; batas bukti berupa simulasi percakapan teks.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, U005 | Sangat fokus pada kepastian struktur kerja dan kelangsungan relasi. |
+| Persepsi dan validasi profil/status | 4 | U003 | Tepat dalam mengenali profil analitis-prosedural Budi dan merevisi dugaan awal. |
+| Pemilihan dan urutan repertoar | 4 | U002, U004 | Urutan komunikasi sangat sistematis dan sesuai kebutuhan target (ISTJ). |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U004 | Menyampaikan pesan secara lugas, solutif, dan bebas dari nada emosional/menghakimi. |
+| Evaluasi dan adaptasi | 4 | U004, U005 | Mampu beradaptasi dengan cepat terhadap kendala teknis Budi di H-24. |
+| Refleksi dan lesson learned | 4 | U005 | Refleksi sangat matang mengenai dinamika kepemimpinan dan manajemen ekspektasi tim. |
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Awalnya mengira Budi mengalami masalah pribadi/kemalasan; ternyata Budi membutuhkan kepastian dan kejelasan struktur tertulis.
+- **Stimulus efektif/tidak efektif:** Sikap komunikatif tanpa menuduh dan fasilitasi struktur tertulis sangat efektif; asumsi tanpa konfirmasi kurang efektif.
+- **Perubahan ASK diri:** Mengembangkan kesadaran untuk tidak terburu-buru menilai, menjadi lebih fleksibel dan akomodatif terhadap masukan tim.
+- **Pelajaran utama:** Belajar bahwa proses kerja kelompok membutuhkan keterbukaan dan penyesuaian berkelanjutan.
+
+## Tindak lanjut dan batas bukti
+
+1. **Langkah konkret:** Mengajari Budi alur teknis pengerjaan subtugas baru dalam 24 jam tersisa.
+2. **Waktu & Dukungan:** Dijalankan secara intensif pada H-24 melalui pendampingan langsung/daring.
+3. **Indikator:** Subtugas Budi selesai sesuai standar tertulis dan tepat waktu.
+4. **Batas bukti:** Simulasi berbasis teks.

@@ -1,0 +1,131 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Cecilia Maura Ciptami P |
+| NIM | 18225049 |
+| Kelas dan tanggal | K1, 10 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 — Persahabatan dan Profesionalitas |
+| Nama dan ID target | Elsa (K2-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Simulasi Kasus Konseptual |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Tenggat tugas kelompok 48 jam lagi. Elsa belum mengirimkan bagian tugasnya dan merasa pembagian tugas saat ini kurang adil/memberatkan. Mahasiswa mengajak percakapan untuk menjaga persahabatan sekaligus meredistribusikan beban kerja secara transparan.
+- **Konteks:** Elsa cenderung membantu kawan lain terlebih dahulu sehingga bagian tugas utamanya terbengkalai dan merasa tertekan.
+- **Respons akhir yang diharapkan:** Menyepakati redistribusi beban kerja yang transparan, memberikan dukungan teknis, dan memastikan tugas selesai tepat waktu tanpa merusak persahabatan.
+- **Indikator keberhasilan:** Elsa merasa didukung, tidak terbebankan, menyepakati alokasi tugas baru, dan berkomitmen menyelesaikan porsi tugasnya.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | S: Suportif, terbuka, terstruktur. W: Sempat menduga Elsa malas/menunda. O: Elsa kooperatif jika diberi kejelasan. T: Tenggat H-48. | U001 | Laporan diri / Sementara |
+| Attitude | Terbuka, tidak menyalahkan, mengutamakan kebersamaan. | U001, U003 | Laporan diri / Sementara |
+| Knowledge | Memahami pentingnya transparansi alokasi tugas dan penyesuaian beban kerja. | U002, U004 | Laporan diri / Sementara |
+| Skill | Mampu menfasilitasi redistribusi tugas dan memberikan bantuan teknis. | U002, U004 | Laporan diri / Sementara |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan | - | - |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa pimpinan kelompok yang inklusif dan empatik. | U001 | Laporan diri / Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menjaga persahabatan & menyelesaikan tugas tepat waktu | A: Penurunan rasa cemas; K: Kejelasan alokasi; S: Pendampingan | Diskusi terbuka tanpa nada menuduh | Elsa terbuka menyampaikan kendalanya |
+| Attention | Elsa merasa terbebankan dan sungkan menolak bantuan orang lain | A: Meringankan tekanan emosional Elsa | Bertanya situasi & tawaran diskusi | Elsa merespons dengan jujur |
+| Interest | Menginginkan pembagian kerja yang lebih seimbang | K: Pemetaan ulang subtugas kelompok | Meninjau ulang bobot tugas bersama | Elsa menyetujui opsi redistribusi |
+| Desire | Membutuhkan kejelasan porsi pengerjaan dan bantuan teknis | S: Penjelasan langkah teknis & bantuan tim | Pembagian ulang tertulis & pendampingan | Elsa merasa tenang dan sanggup |
+| Action | Menyelesaikan porsi tugas baru sebelum tenggat H-24 | A/K/S terintegrasi | Bimbingan dan koordinasi berkala | Tugas selesai tepat waktu |
+
+# C) Skrip Percakapan
+
+### U001 | Tahap: Identifikasi
+**Mahasiswa:**  
+1. K1, 10 Oktober 2026, teks.  
+2. Saya ingin mengajak Elsa berdiskusi santai mengenai kendala yang dihadapinya tanpa menyalahkan, bertanya situasinya, dan menawarkan redistribusi tugas yang adil.  
+3. A: Elsa mungkin merasa tidak enak atau terbebankan. K: Elsa belum tahu bagaimana membagi prioritas tugas. S: Membutuhkan bantuan untuk memfokuskan pengerjaan porsi tugas utamanya.
+
+### AI001 | Tahap: Simulasi Awal (Pengantar & Peran Elsa)
+**AI:**  
+(Memerankan Elsa — K2-01, teman kelompok yang hangat dan penolong)
+
+Elsa (K2-01): "Aku minta maaf banget belum ngirim bagianku. Kemarin aku sempat bantu kawan lain yang kelabakan, jadi porsi utamaku sendiri malah keteteran. Aku merasa beban pengerjaan yang sekarang agak berat kalau harus selesai dalam 48 jam. Menurutmu gimana ya solusi terbaiknya?"
+
+### U002 | Tahap: Simulasi Awal (Respon Mahasiswa)
+**Mahasiswa:**  
+Makasih ya Sa udah jujur menyampaikan kendalamu. Kamu keren banget udah mau bantu temen lain, tapi jangan sampai porsi utamamu bikin kamu kewalahan sendiri. Yuk kita petakan ulang bagian mana yang bisa kita bagi ke anggota tim lain supaya bebanmu lebih ringan dan kita bisa selesai bareng-bareng tepat waktu.
+
+### AI002 | Tahap: Evaluasi Sementara (Pengantar)
+**AI:**  
+Elsa (K2-01): "Makasih banyak ya Cecilia! Aku lega banget kamu enggak marah dan malah bantu carikan solusi. Kalau bagian rumit ini bisa dibagi sedikit, aku yakin bisa selesaikan sisa bagianku tepat waktu."
+
+Sebelum masuk ke uji ulang, silakan sampaikan refleksimu mengenai pendekatan komunikasimu dan revisi dugaan profil Elsa.
+
+### U003 | Tahap: Evaluasi Sementara (Refleksi Mahasiswa)
+**Mahasiswa:**  
+1. Pendekatan komunikasi yang mengapresiasi kebaikan Elsa terlebih dahulu dan tidak menyalahkan sangat efektif membuat Elsa merasa aman dan dihargai.  
+2. Elsa sebenarnya sangat bertanggung jawab dan berniat baik, tetapi kesulitan menetapkan batas (*boundary*) ketika membantu orang lain sehingga membutuhkan redistribusi kerja yang transparan.
+
+### AI003 | Tahap: Pengungkapan Profil & Uji Ulang (Pengantar)
+**AI:**  
+Pengungkapan Profil Tokoh (Elsa — K2-01): ISFJ — Penjaga harmoni, sangat peduli pada kawan tetapi rawan kewalahan karena menanggung beban berlebih.
+
+Tahap E: Uji Ulang
+Situasi H-24: Elsa menghadapi kendala format teknis pada bagian barunya. Bagaimana caramu merespons?
+
+### U004 | Tahap: Uji Ulang
+**Mahasiswa:**  
+Tenang aja Sa, untuk bagian format teknis itu bisa kita kerjakan bareng atau nanti aku kasih contoh draf yang sudah jadi biar kamu tinggal mengikuti kodenya. Kamu fokus aja ke konten utamanya ya, nanti kita bantu rapikan bersama.
+
+### AI004 | Tahap: Hasil & Refleksi
+**AI:**  
+Elsa (K2-01): "Wah makasih banyak Cecilia, bantuan dan contoh drafnya sangat membantu! Aku langsung lanjut kerjakan sekarang."
+
+### U005 | Tahap: Hasil & Refleksi
+**Mahasiswa:**  
+1. Tujuan tercapai maksimal, persahabatan terjaga dan tugas terdistribusi dengan adil.  
+2. Sikap empati dan penawaran bantuan konkret sangat efektif; sikap menuntut tanpa memahami konteks sangat tidak efektif.  
+3. Rasa saling percaya meningkat karena ada keterbukaan dan dukungan tanpa penghakiman.  
+4. Lesson learned: Komunikasi pimpinan harus mengutamakan empati, transparansi, dan pemecahan masalah bersama.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan menjaga hubungan persahabatan dan menyepakati redistribusi beban kerja tercapai 100%.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | S: Peduli & kooperatif<br>W: Sulit menolak bantuan<br>O: Redistribusi kerja tim<br>T: Tenggat ketat | S: Fokus & lega<br>W: Terbantu pendampingan<br>O: Kolaborasi seimbang<br>T: Hambatan teknis teratasi | U001 → U005 | Laporan simulasi |
+| Attitude | Cemas dan bersalah karena terlambat | Lega, percaya diri, dan berkomitmen | U001 → U005 | Laporan simulasi |
+| Knowledge | Bingung membagi prioritas tugas | Paham alokasi baru dan target pengerjaan | U002 → U005 | Laporan simulasi |
+| Skill | Terkendala kendala teknis format | Terbantu lewat contoh draf dan panduan tim | U004 → U005 | Demonstrasi simulasi |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, U005 | Sangat fokus pada penyesuaian beban kerja dan pemeliharaan hubungan baik. |
+| Persepsi dan validasi profil/status | 4 | U003 | Tepat dalam memahami motif ISFJ Elsa yang penolong namun rawan kewalahan. |
+| Pemilihan dan urutan repertoar | 4 | U002, U004 | Urutan komunikasi sangat empatik, solutif, dan bebas tekanan emosional. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U004 | Menyampaikan dorongan dan tawaran bantuan teknis secara sangat jelas. |
+| Evaluasi dan adaptasi | 4 | U004, U005 | Adaptif memberikan panduan draf teknis saat Elsa mengalami kendala format. |
+| Refleksi dan lesson learned | 4 | U005 | Refleksi sangat matang mengenai kepemimpinan empatik dalam kerja tim. |
+
+*Catatan penilaian:* Total skor = 24 / 24 × 100 = 100. Skor usulan AI untuk moderasi dosen.
