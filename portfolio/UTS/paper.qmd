@@ -63,7 +63,7 @@ Keenam belas kombinasinya adalah ISTJ, ISFJ, INFJ, INTJ, ISTP, ISFP, INFP, INTP,
 
 Preferensi, perilaku, kemampuan, dan kematangan adalah empat hal berbeda. Seseorang dapat berpreferensi I tetapi tampil percaya diri di depan umum setelah berlatih; seseorang dapat berpreferensi T tetapi sangat peka terhadap perasaan rekan. Pihak pengembang instrumen sendiri menegaskan bahwa MBTI tidak mengukur kemampuan atau memprediksi perilaku secara pasti (The Myers & Briggs Foundation, tanpa tahun-b).
 
-Dari sisi bukti, MBTI dikritik secara ilmiah. McCrae dan Costa (1989) menganalisis data 468 orang dan tidak menemukan dukungan bagi pembagian yang benar-benar dikotomis atau tipe yang berbeda secara kualitatif; beberapa indeks MBTI berhubungan dengan dimensi model lima faktor. Pittenger (1993) juga meninjau keterbatasan reliabilitas dan validitas MBTI. Karena itu, kekuatan MBTI di sini diposisikan sebagai alat *refleksi dan percakapan*, bukan alat ukur yang presisi. Hubungan antara tipe dan komunikasi diperlakukan sebagai kemungkinan kontekstual, bukan hubungan sebab-akibat yang dibuktikan dalam makalah ini.
+Dari sisi bukti, MBTI dikritik secara ilmiah. McCrae dan Costa (1989) menganalisis data 468 orang dan tidak menemukan dukungan bagi pembagian yang benar-benar dikotomis atau tipe yang berbeda secara kualitatif; beberapa indeks MBTI berhubungan dengan dimensi model lima faktor. Pittenger (1993) dan Boyle (1995) sama-sama meninjau keterbatasan reliabilitas dan validitas MBTI; Boyle bahkan tidak merekomendasikan pemakaian rutinnya. Karena itu, kekuatan MBTI di sini diposisikan sebagai alat *refleksi dan percakapan*, bukan alat ukur yang presisi. Hubungan antara tipe dan komunikasi diperlakukan sebagai kemungkinan kontekstual, bukan hubungan sebab-akibat yang dibuktikan dalam makalah ini.
 
 ## Strategi Komunikasi untuk Profil Tertentu
 
@@ -71,22 +71,22 @@ Langkah pertama bukan menebak tipe, melainkan menanyakan kebutuhan: apakah lawan
 
 | Profil/preferensi | Kebutuhan yang perlu dikonfirmasi | Strategi dan contoh ungkapan | Cara memeriksa efektivitas |
 |---|---|---|---|
-| E | Perlu mendiskusikan dulu? | Ajak berdialog, lalu rangkum. "Kita bahas opsinya, nanti saya tuliskan kesimpulannya." | Lawan bicara dapat menyimpulkan hasil diskusi sendiri |
-| I | Perlu bahan dulu? | Kirim materi lebih awal. "Ringkasannya sudah saya kirim; masukan tertulis juga boleh." | Masukan relevan muncul setelah waktu mencerna |
-| S | Perlu contoh dan langkah? | Berikan data, contoh, urutan kerja. "Ini kendalanya dan langkah perbaikannya." | Dapat menjelaskan ulang langkah dengan bahasa sendiri |
-| N | Perlu gambaran besar? | Mulai dari tujuan dan hubungan antargagasan. "Tujuannya memperbaiki alur; ada dua arah yang bisa diuji." | Dapat menyebut tujuan dan alasan pilihan |
-| T | Kriteria apa yang dipakai? | Sajikan kriteria, bukti, risiko. "Kita bandingkan biaya, mutu, dan risiko." | Keputusan merujuk pada kriteria yang disepakati |
-| F | Siapa yang terdampak? | Bahas dampak pada orang dan nilai. "Perubahan ini menambah beban tim; kita dengar masukan mereka." | Dampak pada pihak terkait tercatat dalam keputusan |
-| J | Apa yang harus dipastikan sekarang? | Tegaskan keputusan, peran, tenggat. "Diputuskan Jumat; tiap tugas ada penanggung jawab." | Tugas dan tenggat dipahami sama |
-| P | Apa yang masih boleh dieksplorasi? | Beri ruang dengan batas jelas. "Metode boleh dicoba sampai Kamis, lalu kita pilih." | Eksplorasi berakhir dengan pilihan yang disepakati |
+| E | Perlu mendiskusikan dulu? | Ajak berdialog, lalu rangkum. "Yuk kita obrolin dulu opsinya, habis itu aku tulis poin kesepakatannya." | Lawan bicara dapat menyimpulkan hasil diskusi dengan kata-katanya sendiri |
+| I | Perlu bahan dulu? | Kirim materi lebih awal. "Materinya aku kirim sekarang ya; kalau ada masukan, lewat chat juga boleh." | Masukan relevan muncul setelah ada waktu mencerna |
+| S | Perlu contoh dan langkah? | Berikan data, contoh, urutan kerja. "Kendalanya ada di bagian ini, langkah perbaikannya satu, dua, tiga." | Dapat menjelaskan ulang langkah dengan bahasa sendiri |
+| N | Perlu gambaran besar? | Mulai dari tujuan dan hubungan antargagasan. "Tujuan akhirnya begini; ada dua jalur yang bisa kita coba." | Dapat menyebut tujuan dan alasan memilih jalur |
+| T | Kriteria apa yang dipakai? | Sajikan kriteria, bukti, risiko. "Kita nilai pakai tiga kriteria: waktu, kualitas, dan risiko." | Keputusan merujuk pada kriteria yang disepakati |
+| F | Siapa yang terdampak? | Bahas dampak pada orang dan nilai. "Pembagian ini bikin beban satu divisi naik; kita tanya dulu pendapat mereka." | Dampak pada pihak terkait tercatat dalam keputusan |
+| J | Apa yang harus dipastikan sekarang? | Tegaskan keputusan, peran, tenggat. "Kita putuskan hari ini; tiap tugas ada PIC dan batas waktunya." | Tugas dan tenggat dipahami sama |
+| P | Apa yang masih boleh dieksplorasi? | Beri ruang dengan batas jelas. "Silakan coba pendekatan lain sampai rapat berikutnya, lalu kita pilih satu." | Eksplorasi berakhir dengan pilihan yang disepakati |
 
-Kombinasi profil tidak perlu dihafal sebagai stereotip. Misalnya, kepada orang yang mengonfirmasi preferensi INTJ, usulan tertulis dengan tujuan, asumsi, dan kriteria keputusan dapat membantu; kepada ENFP, dialog tentang makna dan kemungkinan proyek dapat dilanjutkan dengan komitmen konkret. Jika orang tersebut menyatakan kebutuhan berbeda, kebutuhan yang dinyatakan mengalahkan dugaan berbasis tipe.
+Kombinasi profil tidak perlu dihafal sebagai stereotip. Misalnya, bagi orang yang mengonfirmasi preferensi I dan J, agenda dan materi yang dikirim sebelum rapat dapat membantu; bagi E dan P, sesi diskusi dengan batas waktu pemilihan dapat membantu. Jika orang tersebut menyatakan kebutuhan berbeda, kebutuhan yang dinyatakan mengalahkan dugaan berbasis tipe.
 
 ### Umpan balik dan konflik
 
-Umpan balik yang baik menyebut situasi, perilaku, dampak, dan perbaikan, misalnya: "Di rapat tadi, penjelasan anggota dipotong sebelum selesai, sehingga data kendala belum masuk ke keputusan. Berikutnya, mari pakai giliran bicara dan rangkum dulu sebelum menanggapi." Kritik diarahkan pada tindakan yang bisa diubah, bukan pada sifat bawaan.
+Umpan balik yang baik menyebut situasi, perilaku, dampak, dan perbaikan. Sebagai ilustrasi dari pengalaman penulis pada presentasi kelompok kecil di salah satu mata kuliah: seorang teman menyampaikan, "Suara kamu terlalu kecil, aku nggak bisa terlalu dengar tadi." Kalimat ini menyebut situasi (presentasi tadi), perilaku (volume suara), dan dampak (isi tidak terdengar). Dalam kesempatan yang sama, penulis memberi umpan balik kepada anggota yang kurang persiapan: "Aku merasa presentasinya kurang preparasi. Kamu tadi memang sudah bilang, tapi ke depannya jangan lupa prepare dan diingat lagi apa yang kamu tulis di PPT." Kalimat ini diawali sudut pandang sendiri ("aku merasa"), mengakui bahwa penerima sudah menyadari kekurangannya, dan menutup dengan perbaikan yang dapat dilakukan. Penulis semula bimbang karena belum ada yang menyinggung hal itu, dan karena kegiatannya hanya latihan; ternyata penerima tidak defensif dan menerima masukan tersebut. Satu pengalaman tidak menjamin hasil serupa pada orang atau situasi lain, tetapi menunjukkan bahwa kritik yang diarahkan pada tindakan yang dapat diperbaiki lebih mudah diterima. Hal ini sejalan dengan tinjauan Hattie dan Timperley (2007) bahwa umpan balik dapat berdampak positif maupun negatif, tergantung jenis dan cara penyampaiannya. Tinjauan itu berasal dari konteks pendidikan, sehingga di sini dipakai sebagai pengingat, bukan bukti bagi kasus penulis.
 
-Ungkapan seperti "dia tipe T jadi wajar kasar" atau "dia tipe P jadi pasti telat" menutup jalan perbaikan karena menjadikan tipe sebagai alasan. Kode etik MBTI mengingatkan agar tipe tidak dipakai untuk menghakimi atau sebagai dasar tunggal keputusan tentang seseorang (The Myers & Briggs Foundation, tanpa tahun-c). Dalam konflik, langkah dasarnya adalah mendengarkan, memparafrasa, menetapkan batas bila ada perlakuan merendahkan, lalu menyepakati perbaikan.
+Ungkapan seperti "dia kan tipe T, jadi wajar kalau ketus" atau "dia kan tipe P, jadi pasti telat" menutup jalan perbaikan karena menjadikan tipe sebagai alasan. Kode etik MBTI mengingatkan agar tipe tidak dipakai untuk menghakimi atau sebagai dasar tunggal keputusan tentang seseorang (The Myers & Briggs Foundation, tanpa tahun-c). Dalam konflik, langkah dasarnya adalah mendengarkan, memparafrasa, menetapkan batas bila ada perlakuan merendahkan, lalu menyepakati perbaikan.
 
 ## Mengenali Preferensi melalui Percakapan
 
@@ -113,11 +113,16 @@ Prosedur observasi yang diusulkan: (1) sepakati tujuan pengamatan; (2) catat per
 
 Penting untuk membedakan *tafsir subjektif* dari *keadaan nyata*. Kritik "kesimpulanmu belum didukung data" dapat ditafsirkan sebagai serangan pribadi (tafsir) padahal faktanya hanya menunjuk pada celah data. Sebaliknya, penghinaan adalah ancaman nyata yang tidak boleh dibingkai ulang menjadi "peluang". Respons juga dipengaruhi waktu, dukungan, kondisi fisik, relasi kuasa, dan keamanan lingkungan, sehingga tidak ditentukan oleh level PASK semata.
 
-Alur konseptual yang diusulkan:
+Penulis membayangkan satu putaran refleksi dengan enam langkah:
 
-> Stimulus → perhatian dan penafsiran (kapasitas PASK) → pemetaan S/W/O/T → pilihan tindakan → konsekuensi dan umpan balik → pembelajaran PASK.
+1. Ada kejadian (stimulus), misalnya komentar dari teman.
+2. Kejadian itu ditangkap dan ditafsirkan lewat PASK yang dimiliki saat itu.
+3. Tafsir dipetakan dengan SWOT-like: apa yang menjadi modal, kekurangan, peluang, dan risiko.
+4. Dipilih satu bentuk respons.
+5. Akibat dari respons itu diamati, termasuk reaksi orang lain.
+6. Hasil pengamatan dipakai untuk memperbarui PASK, sehingga putaran berikutnya dimulai dari titik yang berbeda.
 
-Alur ini alat refleksi; proses nyata dapat cepat, berulang, dan tumpang tindih.
+Putaran ini hanya alat bantu berpikir. Dalam kenyataan langkah-langkahnya bisa berlangsung sangat cepat, tumpang tindih, atau terulang.
 
 | Unsur SWOT-like | Tafsir terhadap stimulus | Hubungan dengan PASK | Bukti/pertanyaan pemeriksaan |
 |---|---|---|---|
@@ -130,12 +135,12 @@ Alur ini alat refleksi; proses nyata dapat cepat, berulang, dan tumpang tindih.
 
 | Bentuk | Definisi operasional | Contoh | Kapan tepat/tidak tepat |
 |---|---|---|---|
-| Refleks | Reaksi otomatis sangat cepat sebelum pertimbangan sadar | Menghindar saat terkejut suara keras | Tepat untuk perlindungan diri; tidak dapat diandalkan untuk situasi sosial yang kompleks |
-| Reaktif | Tindakan berdasarkan tafsir awal dengan pemeriksaan terbatas | Membalas kritik dengan tuduhan | Dapat tepat dalam keadaan darurat; sering memperburuk konflik biasa |
-| Responsif | Tindakan setelah menimbang fakta, tujuan, alternatif, dan konsekuensi | Meminta rincian kritik lalu merencanakan revisi | Tepat bila ada waktu menimbang; berlebihan bila situasi menuntut tindakan segera |
-| Apresiatif | Respons yang juga mengenali kontribusi atau peluang belajar sambil menjaga batas | Mengakui masukan berguna, menolak penghinaan, memperbaiki proses | Tepat bila ada nilai yang layak diakui; tidak tepat bila dipakai menutupi perlakuan buruk |
+| Refleks | Reaksi otomatis sangat cepat sebelum pertimbangan sadar | Saat panci jatuh ketika memasak, tangan langsung menangkapnya sehingga terkena luka bakar ringan | Tepat untuk perlindungan diri; tidak dapat diandalkan untuk situasi sosial yang kompleks |
+| Reaktif | Tindakan berdasarkan tafsir awal dengan pemeriksaan terbatas | Saat temanku menceritakan pengalamannya, aku langsung menyanggah masukan sebelum selesai mendengarkan rinciannya | Dapat tepat dalam keadaan darurat; sering memperburuk konflik biasa |
+| Responsif | Tindakan setelah menimbang fakta, tujuan, alternatif, dan konsekuensi | Ketika teman bertanya soal beras yang sudah habis, penulis berpikir cukup lama, lalu memutuskan membelikan beras dan kebutuhan makan lain karena temannya memang membutuhkan | Tepat bila ada waktu menimbang; berlebihan bila situasi menuntut tindakan segera |
+| Apresiatif | Respons yang juga mengenali kontribusi atau peluang belajar sambil menjaga batas | Saat lomba business case, teman menyampaikan masukan tentang cara kerja penulis secara langsung; penulis terkejut, tetapi menyadari masukan itu dibutuhkan dan berterima kasih | Tepat bila ada nilai yang layak diakui; tidak tepat bila dipakai menutupi perlakuan buruk |
 
-Keempat bentuk ini bukan peringkat nilai manusia. Gross (1998) membedakan pengaturan emosi yang berfokus pada anteseden (sebelum respons emosi berkembang penuh) dari yang berfokus pada respons (setelah muncul), dan menunjukkan konsekuensi yang berbeda antara penilaian ulang dan penekanan ekspresi. Temuan ini mendukung pembahasan tentang penafsiran ulang, tetapi tidak membuktikan PASK maupun durasi jeda tertentu. Tujuan pendidikan adalah memperluas pilihan respons sesuai keadaan, bukan menghapus reaksi otomatis.
+Keempat bentuk ini bukan tangga yang harus dinaiki dari refleks sampai apresiatif. Refleks bisa menyelamatkan, dan respons yang tenang pun bisa salah tempat. Gross (1998) menunjukkan bahwa mengatur emosi dengan cara menafsirkan ulang sebuah situasi sejak awal memberi akibat yang berbeda dari sekadar menahan ekspresi setelah emosi muncul. Hasil itu relevan untuk membahas penafsiran ulang, tetapi tidak membuktikan bahwa PASK ada atau bahwa jeda dengan durasi tertentu selalu berguna. Karena itu pendidikan di sini diarahkan untuk menambah pilihan respons, bukan menghilangkan reaksi spontan.
 
 ## Pendidikan untuk Menumbuhkan PASK
 
@@ -148,27 +153,27 @@ PASK dinilai per dimensi berdasarkan kebutuhan yang teramati, bukan disimpulkan 
 | Keterampilan | Belum terbiasa klarifikasi dan parafrasa | Bermain peran, latihan parafrasa, negosiasi | Skrip contoh bagi yang butuh struktur; simulasi bebas bagi yang butuh eksplorasi | Bertanya sebelum menyimpulkan; menyepakati tindakan |
 | Pengetahuan | Konsep belum dapat dijelaskan atau diterapkan | Bacaan, pembahasan kasus, mengajarkan kembali | Contoh konkret dulu atau kerangka konsep dulu, sesuai kebutuhan | Menjelaskan alasan dan menerapkan pada kasus baru |
 
-Stimulus edukatif disajikan lewat kasus atau simulasi dengan tujuan yang dijelaskan, intensitas sesuai kesiapan, dan kesempatan untuk berhenti; peserta tidak dipermalukan atau sengaja diprovokasi. Urutan latihan: jeda sejenak bila memungkinkan, identifikasi fakta, bertanya, pertimbangkan pilihan, sepakati tindakan. Urutan pertemuan yang diusulkan: (1) kasus kritik tugas kelompok dan pemetaan S/W/O/T; (2) perbandingan dialog defensif dan klarifikasi; (3) simulasi perubahan tenggat atau pembagian tugas; (4) kasus baru dengan kesulitan sebanding untuk menguji transfer. Setelah tiap simulasi, peserta membahas apa yang terjadi, tafsir yang dipakai, akibat pilihan, dan strategi berikutnya.
+Stimulus edukatif disajikan lewat kasus atau simulasi dengan tujuan yang dijelaskan, intensitas sesuai kesiapan, dan kesempatan untuk berhenti; peserta tidak dipermalukan atau sengaja diprovokasi. Urutan latihan: jeda sejenak bila memungkinkan, identifikasi fakta, bertanya, pertimbangkan pilihan, sepakati tindakan. Dalam konteks organisasi mahasiswa, penulis mengusulkan dua kegiatan dasar: (a) sesi perkenalan dan percakapan berpasangan yang agak "didorong" pada pertemuan awal, agar anggota terbiasa berkomunikasi dengan orang lain secara bertahap; dan (b) sesi diskusi antarteman di dalam rapat, bukan hanya penyampaian satu arah, agar ide yang terpendam dapat tersampaikan setelah dibicarakan dalam kelompok kecil. Urutan pertemuan yang diusulkan: (1) perkenalan berpasangan dan pemetaan S/W/O/T atas satu kasus umpan balik; (2) rapat dengan sesi diskusi kelompok kecil sebelum diskusi pleno; (3) simulasi memberi dan menerima umpan balik; (4) kasus baru dengan kesulitan sebanding untuk menguji transfer. Karena sebagian anggota mungkin tidak nyaman dengan situasi yang "didorong", intensitas dinaikkan bertahap dan peserta tetap boleh meminta waktu mempersiapkan diri. Setelah tiap simulasi, peserta membahas apa yang terjadi, tafsir yang dipakai, akibat pilihan, dan strategi berikutnya.
 
-Lingkungan belajar perlu aman untuk bertanya dan mengakui kesalahan. Edmondson (1999), dalam penelitian pada 51 tim kerja, menemukan hubungan antara keamanan psikologis dan perilaku belajar tim. Temuan ini mendukung perhatian pada kondisi kelompok, tetapi tidak membuktikan efektivitas program di atas.
+Latihan seperti ini hanya berjalan bila peserta berani bertanya dan mengaku salah. Edmondson (1999) meneliti 51 tim kerja dan menemukan bahwa tim yang anggotanya merasa aman secara psikologis cenderung lebih banyak belajar. Temuan itu mengingatkan perlunya suasana kelompok yang aman, tetapi tidak menunjukkan bahwa program yang diusulkan di sini berhasil.
 
-Evaluasi dilakukan secara formatif: setiap dimensi dinilai terpisah (1 = belum tampak, 2 = dengan bantuan, 3 = mandiri, 4 = adaptif pada kasus baru) pada tugas awal, akhir, dan penerapan lanjutan, disertai contoh perilaku. Rubrik ini bukan skala psikometrik tervalidasi dan skornya tidak menjadi label kepribadian. Peningkatan sebelum–sesudah hanya menunjukkan perkembangan lokal; membuktikan bahwa penyesuaian berbasis MBTI yang menyebabkannya memerlukan kelompok pembanding, tugas sebanding, konsistensi penilai, dan pengamatan lanjutan.
+Untuk melihat perkembangan, penulis mengusulkan penilaian sederhana per dimensi PASK dengan tiga tingkat: *belum tampak*, *tampak dengan bantuan*, dan *tampak mandiri*. Penilaian dilakukan pada awal program, akhir program, dan satu kesempatan lanjutan, dan setiap nilai harus disertai contoh perilaku yang teramati, misalnya "bertanya dulu sebelum membantah". Misalnya, pada kasus presentasi di atas, indikator persepsi adalah peserta dapat membedakan "menurutku sudah keras" dari "pendengar tidak bisa mendengar". Skala ini hanya alat belajar dan belum diuji keandalannya; skornya tidak untuk memberi label pada orang. Selain itu, perbaikan sesudah latihan belum membuktikan bahwa penyesuaian berbasis MBTI yang menyebabkannya. Untuk itu diperlukan kelompok pembanding, tugas yang setara, penilai yang konsisten, dan pengamatan jangka lebih panjang.
 
 ## Contoh Integratif
 
-*Bagian ini ilustrasi, bukan data penelitian.*
+*Bagian ini ilustrasi dari pengalaman penulis, bukan data penelitian.*
 
-**Peristiwa.** Seorang mahasiswa mendengar kritik: "Kesimpulan presentasimu belum didukung data." Ia merasa kemampuannya ditolak.
+**Peristiwa.** Pada sebuah mata kuliah, penulis mempresentasikan materi di kelompok kecil. Setelah selesai, seorang teman berkata, "Suara kamu terlalu kecil, aku nggak bisa terlalu dengar tadi."
 
-**Dugaan awal dan validasi.** Pengamat melihat mahasiswa itu diam lama dan meminta catatan tertulis. Dugaan sementaranya adalah ia terbantu waktu mencerna, tetapi ini bisa juga karena terkejut. Fasilitator menanyakan langsung: "Mau dibahas lisan atau baca catatan dulu?", tanpa menentukan tipe.
+**Dugaan awal dan validasi.** Dugaan awal penulis adalah suaranya sudah cukup besar. Ini tafsir subjektif dari dalam diri sendiri; pendengar yang berada di ruangan memberikan bukti pembanding. Reaksi pertama adalah terkejut dan bertanya-tanya apakah suaranya hanya terasa keras di kepalanya sendiri. Karena masukan datang dari pendengar langsung, penulis mengakui bahwa dugaan awalnya perlu direvisi.
 
-**SWOT-like.** Kekuatan: penguasaan topik. Keterbatasan: sumber data belum lengkap. Peluang: kesempatan revisi dan masukan pembaca. Ancaman: tenggat yang sempit.
+**SWOT-like.** Kekuatan: penulis mau menerima dan merefleksikan masukan. Keterbatasan: volume suara belum cukup terdengar oleh semua orang. Peluang: presentasi ini hanya latihan di kelompok kecil, sehingga dapat diperbaiki sebelum presentasi yang lebih besar. Ancaman: bila tidak diperbaiki, isi presentasi yang baik tetap tidak tersampaikan.
 
-**PASK.** *Persepsi*: memisahkan fakta (data kurang) dari tafsir (saya tidak mampu). *Sikap*: mengambil tanggung jawab atas revisi dan menjaga batas bila kritik merendahkan. *Keterampilan*: meminta rincian kritik. *Pengetahuan*: mempelajari hubungan data, klaim, dan batas generalisasi.
+**PASK.** *Persepsi*: memisahkan fakta (pendengar tidak dapat mendengar jelas) dari tafsir awal (suara sudah cukup). *Sikap*: menerima koreksi dan menjadikannya refleksi, bukan penolakan terhadap diri. *Keterampilan*: mengatur volume dan proyeksi suara. *Pengetahuan*: memahami bahwa kejelasan pesan diukur dari penerima, bukan dari perasaan pengirim.
 
-**Respons.** Responsif dan apresiatif: "Terima kasih atas catatannya. Bagian mana yang butuh tambahan data? Saya akan tinjau klaimnya sebelum revisi." Jika ada penghinaan: "Saya bersedia membahas pekerjaannya, tetapi mohon tanpa merendahkan."
+**Respons.** Reaksi awal berupa keterkejutan, kemudian penulis memilih respons yang responsif: menimbang masukan, menyimpulkan bahwa suaranya memang masih kurang kencang, dan memutuskan memperbesar volume pada kesempatan berikutnya. Respons ini juga bersifat apresiatif karena masukan diterima sebagai bahan belajar.
 
-**Penyesuaian dan rencana belajar.** Mahasiswa diberi peta klaim–bukti tertulis dan kesempatan berdiskusi singkat. Rencana belajarnya: latihan menelusuri sumber, parafrasa kritik, dan uji ulang pada kasus baru dengan kesulitan sebanding.
+**Penyesuaian komunikasi dan rencana belajar.** Pada presentasi berikutnya, penulis berlatih dengan meminta satu teman berdiri di bagian belakang ruangan untuk memeriksa apakah suara terdengar jelas, lalu meminta umpan balik singkat sesudahnya. Keberhasilan dinilai dari apakah semua pendengar dapat mengikuti isi, bukan dari perasaan penulis sendiri.
 
 ## Pembahasan dan Keterbatasan
 
@@ -187,13 +192,17 @@ Integrasi MBTI–SWOT-like–PASK yang diusulkan masih memerlukan pengujian empi
 
 ## Daftar Pustaka {.unnumbered}
 
+Boyle, G. J. (1995). Myers-Briggs Type Indicator (MBTI): Some psychometric limitations. *Australian Psychologist, 30*(1), 71–74. [https://doi.org/10.1111/j.1742-9544.1995.tb01750.x](https://doi.org/10.1111/j.1742-9544.1995.tb01750.x)
+
 Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly, 44*(2), 350–383. [https://doi.org/10.2307/2666999](https://doi.org/10.2307/2666999)
 
 Gross, J. J. (1998). Antecedent- and response-focused emotion regulation: Divergent consequences for experience, expression, and physiology. *Journal of Personality and Social Psychology, 74*(1), 224–237. [https://doi.org/10.1037/0022-3514.74.1.224](https://doi.org/10.1037/0022-3514.74.1.224)
 
+Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
+
 McCrae, R. R., & Costa, P. T., Jr. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. *Journal of Personality, 57*(1), 17–40. [https://doi.org/10.1111/j.1467-6494.1989.tb00759.x](https://doi.org/10.1111/j.1467-6494.1989.tb00759.x)
 
-Pittenger, D. J. (1993). Measuring the MBTI... and coming up short. *Journal of Career Planning & Employment, 54*(1), 48–52.
+Pittenger, D. J. (1993). Measuring the MBTI... and coming up short. *Journal of Career Planning and Employment, 54*(1), 48–52. [https://eric.ed.gov/?id=EJ475507](https://eric.ed.gov/?id=EJ475507)
 
 The Myers & Briggs Foundation. (tanpa tahun-a). *Myers-Briggs overview*. [https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/](https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/)
 

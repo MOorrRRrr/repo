@@ -1,36 +1,36 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "100"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+::: {.callout-tip title="Status Pengisian"}
+Seluruh 5 sesi simulasi kasus komunikasi dan makalah pra-UTS telah diselesaikan dengan lengkap untuk NIM 18225049. Transkrip aktual, analisis ASK/SWOT, penilaian 6 dimensi, serta refleksi lintas sesi telah didokumentasikan secara lengkap pada masing-masing berkas `.qmd`.
 :::
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Cecilia Maura Ciptami Paskadina |
+| NIM | 18225049 |
+| Kelas | K1 |
+| Periode/tanggal pelaksanaan | 10 Oktober 2026 - 15 Oktober 2026 |
+| Versi bank/paket aktif | Bank 2.0; paket 2.0 (penugasan dalam PENUGASAN.md) |
+| Modalitas | Teks |
+| Status pengumpulan | Sudah diunggah |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b_07381119.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Dokumen makalah pra-UTS lengkap |
+| 1 | [hasil_1_18225049.qmd](UTS/hasil_1_18225049.qmd) | Diri; Pembanding: Elsa (K1) | Selesai | Selesai 100% (Transkrip & evaluasi kepemimpinan diri) |
+| 2a | [hasil_2a_18225049.qmd](UTS/hasil_2a_18225049.qmd) | Elsa (K2-01) | Selesai | Selesai 100% (Redistribusi kerja & empati ISFJ) |
+| 2b | [hasil_2b_18225049.qmd](UTS/hasil_2b_18225049.qmd) | Budi (K2-02) | Selesai | Selesai 100% (Draf tertulis & panduan teknis ISTJ) |
+| 3a | [hasil_3a_18225049.qmd](UTS/hasil_3a_18225049.qmd) | Elsa (K3-05) | Selesai | Selesai 100% (Solusi AI kustom & *human fallback*) |
+| 3b | [hasil_3b_18225049.qmd](UTS/hasil_3b_18225049.qmd) | Fajar (K3-06) | Selesai | Selesai 100% (Integrasi WA-Sheets & sakelar `#MANUAL`) |
